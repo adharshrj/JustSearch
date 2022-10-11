@@ -24,82 +24,82 @@
     GET - https://{URL}/elasticSearch/:index/:type
 ```
 
-# Create User
+# Create Pokemon
 ```bash
 curl --location --request POST 'http://localhost:3000/pokemon/create' \
 --header 'Content-Type: application/json' \
 --data-raw '{
-    "name": "user",
-    "age": "100",
-    "cars": [ "carid1" , "carid2" ]
-}'
+    "id": 1,
+    "name": {
+      "english": "Bulbasaur",
+      "japanese": "フシギダネ",
+      "chinese": "妙蛙种子",
+      "french": "Bulbizarre"
+    },
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 49,
+      "Defense": 49,
+      "Sp. Attack": 65,
+      "Sp. Defense": 65,
+      "Speed": 45
+    }
+  }'
 ```
 
-# Create Car
-```bash
-curl --location --request POST 'http://localhost:3000/car/create' \
---header 'Content-Type: application/json' \
---data-raw '{
-    "brand": "BMW",
-    "model": "M7"
-}'
-```
 
-# Get All Users
+# Get All Pokemon
 ```bash
-curl --location --request GET 'http://localhost:3000/user/getAll' \
+curl --location --request GET 'http://localhost:3000/pokemon/getAll' \
 --data-raw ''
 ```
 
-# Get All Cars
+# Get Pokemon by Id
 ```bash
-curl --location --request GET 'http://localhost:3000/car/getAll' \
+curl --location --request GET 'http://localhost:3000/pokemon/get/:id' \
 --data-raw ''
 ```
 
-# Get User by Id
-```bash
-curl --location --request GET 'http://localhost:3000/user/get/:id' \
---data-raw ''
-```
-
-# Get Car by Id
-```bash
-curl --location --request GET 'http://localhost:3000/car/get/:id' \
---data-raw ''
-```
 
 # Update User by Id
 ```bash
-curl --location --request PUT 'http://localhost:3000/user/update/:id' \
+curl --location --request PUT 'http://localhost:3000/pokemon/update/:id' \
 --header 'Content-Type: application/json' \
 --data-raw '{
-    "name": "user",
-    "age": "100",
-    "cars": [ "carid1" , "carid2" ]
-}'
+    "id": 1,
+    "name": {
+      "english": "Bulbasaur",
+      "japanese": "フシギダネ",
+      "chinese": "妙蛙种子",
+      "french": "Bulbizarre"
+    },
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 49,
+      "Defense": 49,
+      "Sp. Attack": 65,
+      "Sp. Defense": 65,
+      "Speed": 45
+    }
+  }'
 ```
 
-# Update Car by Id
-```bash
-curl --location --request PUT 'http://localhost:3000/car/update/:id' \
---header 'Content-Type: application/json' \
---data-raw '{
-    "brand": "BMW",
-    "model": "M7"
-}'
+
 ```
-# Delete User by Id
+# Delete Pokemon by Id
 ```bash
-curl --location --request GET 'http://localhost:3000/user/delete/:id' \
+curl --location --request GET 'http://localhost:3000/pokemon/delete/:id'\
 --data-raw ''
 ```
 
-# Delete Car by Id
-```bash
-curl --location --request GET 'http://localhost:3000/car/delete/:id' \
---data-raw ''
-```
 
 # Elastic Sync
 ```bash
