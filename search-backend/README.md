@@ -16,7 +16,7 @@
     POST - https://{URL}/pokemon/create
     GET - https://{URL}/pokemon/getAll
     GET - https://{URL}/pokemon/get/:id
-    PUT - https://{URL}/pokemon/update/:id
+    PATCH - https://{URL}/pokemon/update/:id
     DELETE - https://{URL}/pokemon/delete/:id
 
     #ELASTIC
@@ -65,9 +65,9 @@ curl --location --request GET 'http://localhost:3000/pokemon/get/:id' \
 ```
 
 
-# Update User by Id
+# Update Pokemon by Id
 ```bash
-curl --location --request PUT 'http://localhost:3000/pokemon/update/:id' \
+curl --location --request PATCH 'http://localhost:3000/pokemon/update/:id' \
 --header 'Content-Type: application/json' \
 --data-raw '{
     "id": 1,

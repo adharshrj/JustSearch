@@ -13,7 +13,8 @@ const phraseSearch = async (_index, _type, phrase) => {
         query: {
           multi_match: {
             fields: [
-              'name',
+              'id',
+              'name.english',
               'type'
             ],
             query: phrase,
@@ -23,7 +24,11 @@ const phraseSearch = async (_index, _type, phrase) => {
         },
         highlight: {
           fields: {
-            name: {},
+            id: {},
+            name: {
+              english:{}
+            },
+            type:{},
           },
         },
       },

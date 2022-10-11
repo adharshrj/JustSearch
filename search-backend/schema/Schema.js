@@ -60,6 +60,9 @@ const PokemonSchema = new mongoose.Schema({
     }
 })
 
+PokemonSchema.set('toJSON', {
+    virtuals: true
+});
 // PokemonSchema.plugin(mongoosastic, {
 //     esClient: esClient, 
 // })
