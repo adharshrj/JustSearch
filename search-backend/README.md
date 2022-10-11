@@ -13,16 +13,11 @@
 ## API Endpoints
 ```bash
     #MONGO
-    POST - https://{URL}/car/create
-    POST - https://{URL}/user/create
-    GET - https://{URL}/user/getAll
-    GET - https://{URL}/car/getAll
-    GET - https://{URL}/user/get/:id
-    GET - https://{URL}/car/get/:id
-    PUT - https://{URL}/user/update/:id
-    PUT - https://{URL}/car/update/:id
-    DELETE - https://{URL}/user/delete/:id
-    DELETE - https://{URL}/car/delete/:id
+    POST - https://{URL}/pokemon/create
+    GET - https://{URL}/pokemon/getAll
+    GET - https://{URL}/pokemon/get/:id
+    PUT - https://{URL}/pokemon/update/:id
+    DELETE - https://{URL}/pokemon/delete/:id
 
     #ELASTIC
     POST - https://{URL}/elasticSearch/sync
@@ -31,7 +26,7 @@
 
 # Create User
 ```bash
-curl --location --request POST 'http://localhost:3000/user/create' \
+curl --location --request POST 'http://localhost:3000/pokemon/create' \
 --header 'Content-Type: application/json' \
 --data-raw '{
     "name": "user",
