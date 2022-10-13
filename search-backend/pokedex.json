@@ -1,5 +1,5 @@
 [{
-    "id": 1,
+    "pokedexId": 1,
     "name": {
       "english": "Bulbasaur",
       "japanese": "フシギダネ",
@@ -20,7 +20,7 @@
     }
   },
   {
-    "id": 2,
+    "pokedexId": 2,
     "name": {
       "english": "Ivysaur",
       "japanese": "フシギソウ",
@@ -41,7 +41,7 @@
     }
   },
   {
-    "id": 3,
+    "pokedexId": 3,
     "name": {
       "english": "Venusaur",
       "japanese": "フシギバナ",
@@ -62,7 +62,7 @@
     }
   },
   {
-    "id": 4,
+    "pokedexId": 4,
     "name": {
       "english": "Charmander",
       "japanese": "ヒトカゲ",
@@ -82,7 +82,7 @@
     }
   },
   {
-    "id": 5,
+    "pokedexId": 5,
     "name": {
       "english": "Charmeleon",
       "japanese": "リザード",
@@ -102,7 +102,7 @@
     }
   },
   {
-    "id": 6,
+    "pokedexId": 6,
     "name": {
       "english": "Charizard",
       "japanese": "リザードン",
@@ -123,7 +123,7 @@
     }
   },
   {
-    "id": 7,
+    "pokedexId": 7,
     "name": {
       "english": "Squirtle",
       "japanese": "ゼニガメ",
@@ -143,7 +143,7 @@
     }
   },
   {
-    "id": 8,
+    "pokedexId": 8,
     "name": {
       "english": "Wartortle",
       "japanese": "カメール",
@@ -163,7 +163,7 @@
     }
   },
   {
-    "id": 9,
+    "pokedexId": 9,
     "name": {
       "english": "Blastoise",
       "japanese": "カメックス",
@@ -183,7 +183,7 @@
     }
   },
   {
-    "id": 10,
+    "pokedexId": 10,
     "name": {
       "english": "Caterpie",
       "japanese": "キャタピー",
@@ -203,7 +203,7 @@
     }
   },
   {
-    "id": 11,
+    "pokedexId": 11,
     "name": {
       "english": "Metapod",
       "japanese": "トランセル",
@@ -223,7 +223,7 @@
     }
   },
   {
-    "id": 12,
+    "pokedexId": 12,
     "name": {
       "english": "Butterfree",
       "japanese": "バタフリー",
@@ -244,7 +244,7 @@
     }
   },
   {
-    "id": 13,
+    "pokedexId": 13,
     "name": {
       "english": "Weedle",
       "japanese": "ビードル",
@@ -265,7 +265,7 @@
     }
   },
   {
-    "id": 14,
+    "pokedexId": 14,
     "name": {
       "english": "Kakuna",
       "japanese": "コクーン",
@@ -286,7 +286,7 @@
     }
   },
   {
-    "id": 15,
+    "pokedexId": 15,
     "name": {
       "english": "Beedrill",
       "japanese": "スピアー",
@@ -307,9 +307,9 @@
     }
   },
   {
-    "id": 16,
+    "pokedexId": 16,
     "name": {
-      "english": "Pidgey",
+      "english": "PpokedexIdgey",
       "japanese": "ポッポ",
       "chinese": "波波",
       "french": "Roucool"
@@ -328,9 +328,9 @@
     }
   },
   {
-    "id": 17,
+    "pokedexId": 17,
     "name": {
-      "english": "Pidgeotto",
+      "english": "PpokedexIdgeotto",
       "japanese": "ピジョン",
       "chinese": "比比鸟",
       "french": "Roucoups"
@@ -349,9 +349,9 @@
     }
   },
   {
-    "id": 18,
+    "pokedexId": 18,
     "name": {
-      "english": "Pidgeot",
+      "english": "PpokedexIdgeot",
       "japanese": "ピジョット",
       "chinese": "大比鸟",
       "french": "Roucarnage"
@@ -370,7 +370,7 @@
     }
   },
   {
-    "id": 19,
+    "pokedexId": 19,
     "name": {
       "english": "Rattata",
       "japanese": "コラッタ",
@@ -390,7 +390,7 @@
     }
   },
   {
-    "id": 20,
+    "pokedexId": 20,
     "name": {
       "english": "Raticate",
       "japanese": "ラッタ",
@@ -410,7 +410,7 @@
     }
   },
   {
-    "id": 21,
+    "pokedexId": 21,
     "name": {
       "english": "Spearow",
       "japanese": "オニスズメ",
@@ -431,7 +431,7 @@
     }
   },
   {
-    "id": 22,
+    "pokedexId": 22,
     "name": {
       "english": "Fearow",
       "japanese": "オニドリル",
@@ -452,7 +452,7 @@
     }
   },
   {
-    "id": 23,
+    "pokedexId": 23,
     "name": {
       "english": "Ekans",
       "japanese": "アーボ",
@@ -472,7 +472,7 @@
     }
   },
   {
-    "id": 24,
+    "pokedexId": 24,
     "name": {
       "english": "Arbok",
       "japanese": "アーボック",
@@ -492,7 +492,7 @@
     }
   },
   {
-    "id": 25,
+    "pokedexId": 25,
     "name": {
       "english": "Pikachu",
       "japanese": "ピカチュウ",
@@ -512,7 +512,7 @@
     }
   },
   {
-    "id": 26,
+    "pokedexId": 26,
     "name": {
       "english": "Raichu",
       "japanese": "ライチュウ",
@@ -532,7 +532,7 @@
     }
   },
   {
-    "id": 27,
+    "pokedexId": 27,
     "name": {
       "english": "Sandshrew",
       "japanese": "サンド",
@@ -552,7 +552,7 @@
     }
   },
   {
-    "id": 28,
+    "pokedexId": 28,
     "name": {
       "english": "Sandslash",
       "japanese": "サンドパン",
@@ -572,12 +572,12 @@
     }
   },
   {
-    "id": 29,
+    "pokedexId": 29,
     "name": {
-      "english": "Nidoran♀",
+      "english": "NpokedexIdoran♀",
       "japanese": "ニドラン♀",
       "chinese": "尼多兰",
-      "french": "Nidoran♀"
+      "french": "NpokedexIdoran♀"
     },
     "type": [
       "Poison"
@@ -592,12 +592,12 @@
     }
   },
   {
-    "id": 30,
+    "pokedexId": 30,
     "name": {
-      "english": "Nidorina",
+      "english": "NpokedexIdorina",
       "japanese": "ニドリーナ",
       "chinese": "尼多娜",
-      "french": "Nidorina"
+      "french": "NpokedexIdorina"
     },
     "type": [
       "Poison"
@@ -612,12 +612,12 @@
     }
   },
   {
-    "id": 31,
+    "pokedexId": 31,
     "name": {
-      "english": "Nidoqueen",
+      "english": "NpokedexIdoqueen",
       "japanese": "ニドクイン",
       "chinese": "尼多后",
-      "french": "Nidoqueen"
+      "french": "NpokedexIdoqueen"
     },
     "type": [
       "Poison",
@@ -633,12 +633,12 @@
     }
   },
   {
-    "id": 32,
+    "pokedexId": 32,
     "name": {
-      "english": "Nidoran♂",
+      "english": "NpokedexIdoran♂",
       "japanese": "ニドラン♂",
       "chinese": "尼多朗",
-      "french": "Nidoran♂"
+      "french": "NpokedexIdoran♂"
     },
     "type": [
       "Poison"
@@ -653,12 +653,12 @@
     }
   },
   {
-    "id": 33,
+    "pokedexId": 33,
     "name": {
-      "english": "Nidorino",
+      "english": "NpokedexIdorino",
       "japanese": "ニドリーノ",
       "chinese": "尼多力诺",
-      "french": "Nidorino"
+      "french": "NpokedexIdorino"
     },
     "type": [
       "Poison"
@@ -673,12 +673,12 @@
     }
   },
   {
-    "id": 34,
+    "pokedexId": 34,
     "name": {
-      "english": "Nidoking",
+      "english": "NpokedexIdoking",
       "japanese": "ニドキング",
       "chinese": "尼多王",
-      "french": "Nidoking"
+      "french": "NpokedexIdoking"
     },
     "type": [
       "Poison",
@@ -694,7 +694,7 @@
     }
   },
   {
-    "id": 35,
+    "pokedexId": 35,
     "name": {
       "english": "Clefairy",
       "japanese": "ピッピ",
@@ -714,7 +714,7 @@
     }
   },
   {
-    "id": 36,
+    "pokedexId": 36,
     "name": {
       "english": "Clefable",
       "japanese": "ピクシー",
@@ -734,7 +734,7 @@
     }
   },
   {
-    "id": 37,
+    "pokedexId": 37,
     "name": {
       "english": "Vulpix",
       "japanese": "ロコン",
@@ -754,7 +754,7 @@
     }
   },
   {
-    "id": 38,
+    "pokedexId": 38,
     "name": {
       "english": "Ninetales",
       "japanese": "キュウコン",
@@ -774,7 +774,7 @@
     }
   },
   {
-    "id": 39,
+    "pokedexId": 39,
     "name": {
       "english": "Jigglypuff",
       "japanese": "プリン",
@@ -795,7 +795,7 @@
     }
   },
   {
-    "id": 40,
+    "pokedexId": 40,
     "name": {
       "english": "Wigglytuff",
       "japanese": "プクリン",
@@ -816,7 +816,7 @@
     }
   },
   {
-    "id": 41,
+    "pokedexId": 41,
     "name": {
       "english": "Zubat",
       "japanese": "ズバット",
@@ -837,7 +837,7 @@
     }
   },
   {
-    "id": 42,
+    "pokedexId": 42,
     "name": {
       "english": "Golbat",
       "japanese": "ゴルバット",
@@ -858,7 +858,7 @@
     }
   },
   {
-    "id": 43,
+    "pokedexId": 43,
     "name": {
       "english": "Oddish",
       "japanese": "ナゾノクサ",
@@ -879,12 +879,12 @@
     }
   },
   {
-    "id": 44,
+    "pokedexId": 44,
     "name": {
       "english": "Gloom",
       "japanese": "クサイハナ",
       "chinese": "臭臭花",
-      "french": "Ortide"
+      "french": "OrtpokedexIde"
     },
     "type": [
       "Grass",
@@ -900,7 +900,7 @@
     }
   },
   {
-    "id": 45,
+    "pokedexId": 45,
     "name": {
       "english": "Vileplume",
       "japanese": "ラフレシア",
@@ -921,7 +921,7 @@
     }
   },
   {
-    "id": 46,
+    "pokedexId": 46,
     "name": {
       "english": "Paras",
       "japanese": "パラス",
@@ -942,7 +942,7 @@
     }
   },
   {
-    "id": 47,
+    "pokedexId": 47,
     "name": {
       "english": "Parasect",
       "japanese": "パラセクト",
@@ -963,7 +963,7 @@
     }
   },
   {
-    "id": 48,
+    "pokedexId": 48,
     "name": {
       "english": "Venonat",
       "japanese": "コンパン",
@@ -984,7 +984,7 @@
     }
   },
   {
-    "id": 49,
+    "pokedexId": 49,
     "name": {
       "english": "Venomoth",
       "japanese": "モルフォン",
@@ -1005,7 +1005,7 @@
     }
   },
   {
-    "id": 50,
+    "pokedexId": 50,
     "name": {
       "english": "Diglett",
       "japanese": "ディグダ",
@@ -1025,7 +1025,7 @@
     }
   },
   {
-    "id": 51,
+    "pokedexId": 51,
     "name": {
       "english": "Dugtrio",
       "japanese": "ダグトリオ",
@@ -1045,7 +1045,7 @@
     }
   },
   {
-    "id": 52,
+    "pokedexId": 52,
     "name": {
       "english": "Meowth",
       "japanese": "ニャース",
@@ -1065,7 +1065,7 @@
     }
   },
   {
-    "id": 53,
+    "pokedexId": 53,
     "name": {
       "english": "Persian",
       "japanese": "ペルシアン",
@@ -1085,7 +1085,7 @@
     }
   },
   {
-    "id": 54,
+    "pokedexId": 54,
     "name": {
       "english": "Psyduck",
       "japanese": "コダック",
@@ -1105,7 +1105,7 @@
     }
   },
   {
-    "id": 55,
+    "pokedexId": 55,
     "name": {
       "english": "Golduck",
       "japanese": "ゴルダック",
@@ -1125,7 +1125,7 @@
     }
   },
   {
-    "id": 56,
+    "pokedexId": 56,
     "name": {
       "english": "Mankey",
       "japanese": "マンキー",
@@ -1145,7 +1145,7 @@
     }
   },
   {
-    "id": 57,
+    "pokedexId": 57,
     "name": {
       "english": "Primeape",
       "japanese": "オコリザル",
@@ -1165,7 +1165,7 @@
     }
   },
   {
-    "id": 58,
+    "pokedexId": 58,
     "name": {
       "english": "Growlithe",
       "japanese": "ガーディ",
@@ -1185,7 +1185,7 @@
     }
   },
   {
-    "id": 59,
+    "pokedexId": 59,
     "name": {
       "english": "Arcanine",
       "japanese": "ウインディ",
@@ -1205,7 +1205,7 @@
     }
   },
   {
-    "id": 60,
+    "pokedexId": 60,
     "name": {
       "english": "Poliwag",
       "japanese": "ニョロモ",
@@ -1225,7 +1225,7 @@
     }
   },
   {
-    "id": 61,
+    "pokedexId": 61,
     "name": {
       "english": "Poliwhirl",
       "japanese": "ニョロゾ",
@@ -1245,7 +1245,7 @@
     }
   },
   {
-    "id": 62,
+    "pokedexId": 62,
     "name": {
       "english": "Poliwrath",
       "japanese": "ニョロボン",
@@ -1266,7 +1266,7 @@
     }
   },
   {
-    "id": 63,
+    "pokedexId": 63,
     "name": {
       "english": "Abra",
       "japanese": "ケーシィ",
@@ -1286,7 +1286,7 @@
     }
   },
   {
-    "id": 64,
+    "pokedexId": 64,
     "name": {
       "english": "Kadabra",
       "japanese": "ユンゲラー",
@@ -1306,7 +1306,7 @@
     }
   },
   {
-    "id": 65,
+    "pokedexId": 65,
     "name": {
       "english": "Alakazam",
       "japanese": "フーディン",
@@ -1326,7 +1326,7 @@
     }
   },
   {
-    "id": 66,
+    "pokedexId": 66,
     "name": {
       "english": "Machop",
       "japanese": "ワンリキー",
@@ -1346,7 +1346,7 @@
     }
   },
   {
-    "id": 67,
+    "pokedexId": 67,
     "name": {
       "english": "Machoke",
       "japanese": "ゴーリキー",
@@ -1366,7 +1366,7 @@
     }
   },
   {
-    "id": 68,
+    "pokedexId": 68,
     "name": {
       "english": "Machamp",
       "japanese": "カイリキー",
@@ -1386,7 +1386,7 @@
     }
   },
   {
-    "id": 69,
+    "pokedexId": 69,
     "name": {
       "english": "Bellsprout",
       "japanese": "マダツボミ",
@@ -1407,7 +1407,7 @@
     }
   },
   {
-    "id": 70,
+    "pokedexId": 70,
     "name": {
       "english": "Weepinbell",
       "japanese": "ウツドン",
@@ -1428,7 +1428,7 @@
     }
   },
   {
-    "id": 71,
+    "pokedexId": 71,
     "name": {
       "english": "Victreebel",
       "japanese": "ウツボット",
@@ -1449,7 +1449,7 @@
     }
   },
   {
-    "id": 72,
+    "pokedexId": 72,
     "name": {
       "english": "Tentacool",
       "japanese": "メノクラゲ",
@@ -1470,7 +1470,7 @@
     }
   },
   {
-    "id": 73,
+    "pokedexId": 73,
     "name": {
       "english": "Tentacruel",
       "japanese": "ドククラゲ",
@@ -1491,7 +1491,7 @@
     }
   },
   {
-    "id": 74,
+    "pokedexId": 74,
     "name": {
       "english": "Geodude",
       "japanese": "イシツブテ",
@@ -1512,7 +1512,7 @@
     }
   },
   {
-    "id": 75,
+    "pokedexId": 75,
     "name": {
       "english": "Graveler",
       "japanese": "ゴローン",
@@ -1533,7 +1533,7 @@
     }
   },
   {
-    "id": 76,
+    "pokedexId": 76,
     "name": {
       "english": "Golem",
       "japanese": "ゴローニャ",
@@ -1554,7 +1554,7 @@
     }
   },
   {
-    "id": 77,
+    "pokedexId": 77,
     "name": {
       "english": "Ponyta",
       "japanese": "ポニータ",
@@ -1574,9 +1574,9 @@
     }
   },
   {
-    "id": 78,
+    "pokedexId": 78,
     "name": {
-      "english": "Rapidash",
+      "english": "RappokedexIdash",
       "japanese": "ギャロップ",
       "chinese": "烈焰马",
       "french": "Galopa"
@@ -1594,7 +1594,7 @@
     }
   },
   {
-    "id": 79,
+    "pokedexId": 79,
     "name": {
       "english": "Slowpoke",
       "japanese": "ヤドン",
@@ -1615,7 +1615,7 @@
     }
   },
   {
-    "id": 80,
+    "pokedexId": 80,
     "name": {
       "english": "Slowbro",
       "japanese": "ヤドラン",
@@ -1636,7 +1636,7 @@
     }
   },
   {
-    "id": 81,
+    "pokedexId": 81,
     "name": {
       "english": "Magnemite",
       "japanese": "コイル",
@@ -1657,7 +1657,7 @@
     }
   },
   {
-    "id": 82,
+    "pokedexId": 82,
     "name": {
       "english": "Magneton",
       "japanese": "レアコイル",
@@ -1678,7 +1678,7 @@
     }
   },
   {
-    "id": 83,
+    "pokedexId": 83,
     "name": {
       "english": "Farfetch'd",
       "japanese": "カモネギ",
@@ -1699,7 +1699,7 @@
     }
   },
   {
-    "id": 84,
+    "pokedexId": 84,
     "name": {
       "english": "Doduo",
       "japanese": "ドードー",
@@ -1720,7 +1720,7 @@
     }
   },
   {
-    "id": 85,
+    "pokedexId": 85,
     "name": {
       "english": "Dodrio",
       "japanese": "ドードリオ",
@@ -1741,7 +1741,7 @@
     }
   },
   {
-    "id": 86,
+    "pokedexId": 86,
     "name": {
       "english": "Seel",
       "japanese": "パウワウ",
@@ -1761,7 +1761,7 @@
     }
   },
   {
-    "id": 87,
+    "pokedexId": 87,
     "name": {
       "english": "Dewgong",
       "japanese": "ジュゴン",
@@ -1782,7 +1782,7 @@
     }
   },
   {
-    "id": 88,
+    "pokedexId": 88,
     "name": {
       "english": "Grimer",
       "japanese": "ベトベター",
@@ -1802,7 +1802,7 @@
     }
   },
   {
-    "id": 89,
+    "pokedexId": 89,
     "name": {
       "english": "Muk",
       "japanese": "ベトベトン",
@@ -1822,7 +1822,7 @@
     }
   },
   {
-    "id": 90,
+    "pokedexId": 90,
     "name": {
       "english": "Shellder",
       "japanese": "シェルダー",
@@ -1842,7 +1842,7 @@
     }
   },
   {
-    "id": 91,
+    "pokedexId": 91,
     "name": {
       "english": "Cloyster",
       "japanese": "パルシェン",
@@ -1863,7 +1863,7 @@
     }
   },
   {
-    "id": 92,
+    "pokedexId": 92,
     "name": {
       "english": "Gastly",
       "japanese": "ゴース",
@@ -1884,7 +1884,7 @@
     }
   },
   {
-    "id": 93,
+    "pokedexId": 93,
     "name": {
       "english": "Haunter",
       "japanese": "ゴースト",
@@ -1905,7 +1905,7 @@
     }
   },
   {
-    "id": 94,
+    "pokedexId": 94,
     "name": {
       "english": "Gengar",
       "japanese": "ゲンガー",
@@ -1926,7 +1926,7 @@
     }
   },
   {
-    "id": 95,
+    "pokedexId": 95,
     "name": {
       "english": "Onix",
       "japanese": "イワーク",
@@ -1947,7 +1947,7 @@
     }
   },
   {
-    "id": 96,
+    "pokedexId": 96,
     "name": {
       "english": "Drowzee",
       "japanese": "スリープ",
@@ -1967,7 +1967,7 @@
     }
   },
   {
-    "id": 97,
+    "pokedexId": 97,
     "name": {
       "english": "Hypno",
       "japanese": "スリーパー",
@@ -1987,7 +1987,7 @@
     }
   },
   {
-    "id": 98,
+    "pokedexId": 98,
     "name": {
       "english": "Krabby",
       "japanese": "クラブ",
@@ -2007,7 +2007,7 @@
     }
   },
   {
-    "id": 99,
+    "pokedexId": 99,
     "name": {
       "english": "Kingler",
       "japanese": "キングラー",
@@ -2027,7 +2027,7 @@
     }
   },
   {
-    "id": 100,
+    "pokedexId": 100,
     "name": {
       "english": "Voltorb",
       "japanese": "ビリリダマ",
@@ -2047,7 +2047,7 @@
     }
   },
   {
-    "id": 101,
+    "pokedexId": 101,
     "name": {
       "english": "Electrode",
       "japanese": "マルマイン",
@@ -2067,7 +2067,7 @@
     }
   },
   {
-    "id": 102,
+    "pokedexId": 102,
     "name": {
       "english": "Exeggcute",
       "japanese": "タマタマ",
@@ -2088,7 +2088,7 @@
     }
   },
   {
-    "id": 103,
+    "pokedexId": 103,
     "name": {
       "english": "Exeggutor",
       "japanese": "ナッシー",
@@ -2109,7 +2109,7 @@
     }
   },
   {
-    "id": 104,
+    "pokedexId": 104,
     "name": {
       "english": "Cubone",
       "japanese": "カラカラ",
@@ -2129,7 +2129,7 @@
     }
   },
   {
-    "id": 105,
+    "pokedexId": 105,
     "name": {
       "english": "Marowak",
       "japanese": "ガラガラ",
@@ -2149,7 +2149,7 @@
     }
   },
   {
-    "id": 106,
+    "pokedexId": 106,
     "name": {
       "english": "Hitmonlee",
       "japanese": "サワムラー",
@@ -2169,7 +2169,7 @@
     }
   },
   {
-    "id": 107,
+    "pokedexId": 107,
     "name": {
       "english": "Hitmonchan",
       "japanese": "エビワラー",
@@ -2189,7 +2189,7 @@
     }
   },
   {
-    "id": 108,
+    "pokedexId": 108,
     "name": {
       "english": "Lickitung",
       "japanese": "ベロリンガ",
@@ -2209,7 +2209,7 @@
     }
   },
   {
-    "id": 109,
+    "pokedexId": 109,
     "name": {
       "english": "Koffing",
       "japanese": "ドガース",
@@ -2229,7 +2229,7 @@
     }
   },
   {
-    "id": 110,
+    "pokedexId": 110,
     "name": {
       "english": "Weezing",
       "japanese": "マタドガス",
@@ -2249,7 +2249,7 @@
     }
   },
   {
-    "id": 111,
+    "pokedexId": 111,
     "name": {
       "english": "Rhyhorn",
       "japanese": "サイホーン",
@@ -2270,7 +2270,7 @@
     }
   },
   {
-    "id": 112,
+    "pokedexId": 112,
     "name": {
       "english": "Rhydon",
       "japanese": "サイドン",
@@ -2291,7 +2291,7 @@
     }
   },
   {
-    "id": 113,
+    "pokedexId": 113,
     "name": {
       "english": "Chansey",
       "japanese": "ラッキー",
@@ -2311,7 +2311,7 @@
     }
   },
   {
-    "id": 114,
+    "pokedexId": 114,
     "name": {
       "english": "Tangela",
       "japanese": "モンジャラ",
@@ -2331,7 +2331,7 @@
     }
   },
   {
-    "id": 115,
+    "pokedexId": 115,
     "name": {
       "english": "Kangaskhan",
       "japanese": "ガルーラ",
@@ -2351,7 +2351,7 @@
     }
   },
   {
-    "id": 116,
+    "pokedexId": 116,
     "name": {
       "english": "Horsea",
       "japanese": "タッツー",
@@ -2371,7 +2371,7 @@
     }
   },
   {
-    "id": 117,
+    "pokedexId": 117,
     "name": {
       "english": "Seadra",
       "japanese": "シードラ",
@@ -2391,7 +2391,7 @@
     }
   },
   {
-    "id": 118,
+    "pokedexId": 118,
     "name": {
       "english": "Goldeen",
       "japanese": "トサキント",
@@ -2411,7 +2411,7 @@
     }
   },
   {
-    "id": 119,
+    "pokedexId": 119,
     "name": {
       "english": "Seaking",
       "japanese": "アズマオウ",
@@ -2431,7 +2431,7 @@
     }
   },
   {
-    "id": 120,
+    "pokedexId": 120,
     "name": {
       "english": "Staryu",
       "japanese": "ヒトデマン",
@@ -2451,7 +2451,7 @@
     }
   },
   {
-    "id": 121,
+    "pokedexId": 121,
     "name": {
       "english": "Starmie",
       "japanese": "スターミー",
@@ -2472,7 +2472,7 @@
     }
   },
   {
-    "id": 122,
+    "pokedexId": 122,
     "name": {
       "english": "Mr. Mime",
       "japanese": "バリヤード",
@@ -2493,7 +2493,7 @@
     }
   },
   {
-    "id": 123,
+    "pokedexId": 123,
     "name": {
       "english": "Scyther",
       "japanese": "ストライク",
@@ -2514,7 +2514,7 @@
     }
   },
   {
-    "id": 124,
+    "pokedexId": 124,
     "name": {
       "english": "Jynx",
       "japanese": "ルージュラ",
@@ -2535,7 +2535,7 @@
     }
   },
   {
-    "id": 125,
+    "pokedexId": 125,
     "name": {
       "english": "Electabuzz",
       "japanese": "エレブー",
@@ -2555,7 +2555,7 @@
     }
   },
   {
-    "id": 126,
+    "pokedexId": 126,
     "name": {
       "english": "Magmar",
       "japanese": "ブーバー",
@@ -2575,7 +2575,7 @@
     }
   },
   {
-    "id": 127,
+    "pokedexId": 127,
     "name": {
       "english": "Pinsir",
       "japanese": "カイロス",
@@ -2595,7 +2595,7 @@
     }
   },
   {
-    "id": 128,
+    "pokedexId": 128,
     "name": {
       "english": "Tauros",
       "japanese": "ケンタロス",
@@ -2615,7 +2615,7 @@
     }
   },
   {
-    "id": 129,
+    "pokedexId": 129,
     "name": {
       "english": "Magikarp",
       "japanese": "コイキング",
@@ -2635,7 +2635,7 @@
     }
   },
   {
-    "id": 130,
+    "pokedexId": 130,
     "name": {
       "english": "Gyarados",
       "japanese": "ギャラドス",
@@ -2656,7 +2656,7 @@
     }
   },
   {
-    "id": 131,
+    "pokedexId": 131,
     "name": {
       "english": "Lapras",
       "japanese": "ラプラス",
@@ -2677,7 +2677,7 @@
     }
   },
   {
-    "id": 132,
+    "pokedexId": 132,
     "name": {
       "english": "Ditto",
       "japanese": "メタモン",
@@ -2697,7 +2697,7 @@
     }
   },
   {
-    "id": 133,
+    "pokedexId": 133,
     "name": {
       "english": "Eevee",
       "japanese": "イーブイ",
@@ -2717,7 +2717,7 @@
     }
   },
   {
-    "id": 134,
+    "pokedexId": 134,
     "name": {
       "english": "Vaporeon",
       "japanese": "シャワーズ",
@@ -2737,7 +2737,7 @@
     }
   },
   {
-    "id": 135,
+    "pokedexId": 135,
     "name": {
       "english": "Jolteon",
       "japanese": "サンダース",
@@ -2757,7 +2757,7 @@
     }
   },
   {
-    "id": 136,
+    "pokedexId": 136,
     "name": {
       "english": "Flareon",
       "japanese": "ブースター",
@@ -2777,7 +2777,7 @@
     }
   },
   {
-    "id": 137,
+    "pokedexId": 137,
     "name": {
       "english": "Porygon",
       "japanese": "ポリゴン",
@@ -2797,7 +2797,7 @@
     }
   },
   {
-    "id": 138,
+    "pokedexId": 138,
     "name": {
       "english": "Omanyte",
       "japanese": "オムナイト",
@@ -2818,7 +2818,7 @@
     }
   },
   {
-    "id": 139,
+    "pokedexId": 139,
     "name": {
       "english": "Omastar",
       "japanese": "オムスター",
@@ -2839,7 +2839,7 @@
     }
   },
   {
-    "id": 140,
+    "pokedexId": 140,
     "name": {
       "english": "Kabuto",
       "japanese": "カブト",
@@ -2860,7 +2860,7 @@
     }
   },
   {
-    "id": 141,
+    "pokedexId": 141,
     "name": {
       "english": "Kabutops",
       "japanese": "カブトプス",
@@ -2881,7 +2881,7 @@
     }
   },
   {
-    "id": 142,
+    "pokedexId": 142,
     "name": {
       "english": "Aerodactyl",
       "japanese": "プテラ",
@@ -2902,7 +2902,7 @@
     }
   },
   {
-    "id": 143,
+    "pokedexId": 143,
     "name": {
       "english": "Snorlax",
       "japanese": "カビゴン",
@@ -2922,7 +2922,7 @@
     }
   },
   {
-    "id": 144,
+    "pokedexId": 144,
     "name": {
       "english": "Articuno",
       "japanese": "フリーザー",
@@ -2943,7 +2943,7 @@
     }
   },
   {
-    "id": 145,
+    "pokedexId": 145,
     "name": {
       "english": "Zapdos",
       "japanese": "サンダー",
@@ -2964,7 +2964,7 @@
     }
   },
   {
-    "id": 146,
+    "pokedexId": 146,
     "name": {
       "english": "Moltres",
       "japanese": "ファイヤー",
@@ -2985,12 +2985,12 @@
     }
   },
   {
-    "id": 147,
+    "pokedexId": 147,
     "name": {
       "english": "Dratini",
       "japanese": "ミニリュウ",
       "chinese": "迷你龙",
-      "french": "Minidraco"
+      "french": "MinpokedexIdraco"
     },
     "type": [
       "Dragon"
@@ -3005,7 +3005,7 @@
     }
   },
   {
-    "id": 148,
+    "pokedexId": 148,
     "name": {
       "english": "Dragonair",
       "japanese": "ハクリュー",
@@ -3025,7 +3025,7 @@
     }
   },
   {
-    "id": 149,
+    "pokedexId": 149,
     "name": {
       "english": "Dragonite",
       "japanese": "カイリュー",
@@ -3046,7 +3046,7 @@
     }
   },
   {
-    "id": 150,
+    "pokedexId": 150,
     "name": {
       "english": "Mewtwo",
       "japanese": "ミュウツー",
@@ -3066,7 +3066,7 @@
     }
   },
   {
-    "id": 151,
+    "pokedexId": 151,
     "name": {
       "english": "Mew",
       "japanese": "ミュウ",
@@ -3086,7 +3086,7 @@
     }
   },
   {
-    "id": 152,
+    "pokedexId": 152,
     "name": {
       "english": "Chikorita",
       "japanese": "チコリータ",
@@ -3106,7 +3106,7 @@
     }
   },
   {
-    "id": 153,
+    "pokedexId": 153,
     "name": {
       "english": "Bayleef",
       "japanese": "ベイリーフ",
@@ -3126,7 +3126,7 @@
     }
   },
   {
-    "id": 154,
+    "pokedexId": 154,
     "name": {
       "english": "Meganium",
       "japanese": "メガニウム",
@@ -3146,7 +3146,7 @@
     }
   },
   {
-    "id": 155,
+    "pokedexId": 155,
     "name": {
       "english": "Cyndaquil",
       "japanese": "ヒノアラシ",
@@ -3166,7 +3166,7 @@
     }
   },
   {
-    "id": 156,
+    "pokedexId": 156,
     "name": {
       "english": "Quilava",
       "japanese": "マグマラシ",
@@ -3186,7 +3186,7 @@
     }
   },
   {
-    "id": 157,
+    "pokedexId": 157,
     "name": {
       "english": "Typhlosion",
       "japanese": "バクフーン",
@@ -3206,7 +3206,7 @@
     }
   },
   {
-    "id": 158,
+    "pokedexId": 158,
     "name": {
       "english": "Totodile",
       "japanese": "ワニノコ",
@@ -3226,7 +3226,7 @@
     }
   },
   {
-    "id": 159,
+    "pokedexId": 159,
     "name": {
       "english": "Croconaw",
       "japanese": "アリゲイツ",
@@ -3246,7 +3246,7 @@
     }
   },
   {
-    "id": 160,
+    "pokedexId": 160,
     "name": {
       "english": "Feraligatr",
       "japanese": "オーダイル",
@@ -3266,7 +3266,7 @@
     }
   },
   {
-    "id": 161,
+    "pokedexId": 161,
     "name": {
       "english": "Sentret",
       "japanese": "オタチ",
@@ -3286,7 +3286,7 @@
     }
   },
   {
-    "id": 162,
+    "pokedexId": 162,
     "name": {
       "english": "Furret",
       "japanese": "オオタチ",
@@ -3306,7 +3306,7 @@
     }
   },
   {
-    "id": 163,
+    "pokedexId": 163,
     "name": {
       "english": "Hoothoot",
       "japanese": "ホーホー",
@@ -3327,7 +3327,7 @@
     }
   },
   {
-    "id": 164,
+    "pokedexId": 164,
     "name": {
       "english": "Noctowl",
       "japanese": "ヨルノズク",
@@ -3348,7 +3348,7 @@
     }
   },
   {
-    "id": 165,
+    "pokedexId": 165,
     "name": {
       "english": "Ledyba",
       "japanese": "レディバ",
@@ -3369,7 +3369,7 @@
     }
   },
   {
-    "id": 166,
+    "pokedexId": 166,
     "name": {
       "english": "Ledian",
       "japanese": "レディアン",
@@ -3390,7 +3390,7 @@
     }
   },
   {
-    "id": 167,
+    "pokedexId": 167,
     "name": {
       "english": "Spinarak",
       "japanese": "イトマル",
@@ -3411,7 +3411,7 @@
     }
   },
   {
-    "id": 168,
+    "pokedexId": 168,
     "name": {
       "english": "Ariados",
       "japanese": "アリアドス",
@@ -3432,7 +3432,7 @@
     }
   },
   {
-    "id": 169,
+    "pokedexId": 169,
     "name": {
       "english": "Crobat",
       "japanese": "クロバット",
@@ -3453,7 +3453,7 @@
     }
   },
   {
-    "id": 170,
+    "pokedexId": 170,
     "name": {
       "english": "Chinchou",
       "japanese": "チョンチー",
@@ -3474,7 +3474,7 @@
     }
   },
   {
-    "id": 171,
+    "pokedexId": 171,
     "name": {
       "english": "Lanturn",
       "japanese": "ランターン",
@@ -3495,7 +3495,7 @@
     }
   },
   {
-    "id": 172,
+    "pokedexId": 172,
     "name": {
       "english": "Pichu",
       "japanese": "ピチュー",
@@ -3515,7 +3515,7 @@
     }
   },
   {
-    "id": 173,
+    "pokedexId": 173,
     "name": {
       "english": "Cleffa",
       "japanese": "ピィ",
@@ -3535,7 +3535,7 @@
     }
   },
   {
-    "id": 174,
+    "pokedexId": 174,
     "name": {
       "english": "Igglybuff",
       "japanese": "ププリン",
@@ -3556,7 +3556,7 @@
     }
   },
   {
-    "id": 175,
+    "pokedexId": 175,
     "name": {
       "english": "Togepi",
       "japanese": "トゲピー",
@@ -3576,7 +3576,7 @@
     }
   },
   {
-    "id": 176,
+    "pokedexId": 176,
     "name": {
       "english": "Togetic",
       "japanese": "トゲチック",
@@ -3597,7 +3597,7 @@
     }
   },
   {
-    "id": 177,
+    "pokedexId": 177,
     "name": {
       "english": "Natu",
       "japanese": "ネイティ",
@@ -3618,7 +3618,7 @@
     }
   },
   {
-    "id": 178,
+    "pokedexId": 178,
     "name": {
       "english": "Xatu",
       "japanese": "ネイティオ",
@@ -3639,7 +3639,7 @@
     }
   },
   {
-    "id": 179,
+    "pokedexId": 179,
     "name": {
       "english": "Mareep",
       "japanese": "メリープ",
@@ -3659,7 +3659,7 @@
     }
   },
   {
-    "id": 180,
+    "pokedexId": 180,
     "name": {
       "english": "Flaaffy",
       "japanese": "モココ",
@@ -3679,7 +3679,7 @@
     }
   },
   {
-    "id": 181,
+    "pokedexId": 181,
     "name": {
       "english": "Ampharos",
       "japanese": "デンリュウ",
@@ -3699,7 +3699,7 @@
     }
   },
   {
-    "id": 182,
+    "pokedexId": 182,
     "name": {
       "english": "Bellossom",
       "japanese": "キレイハナ",
@@ -3719,7 +3719,7 @@
     }
   },
   {
-    "id": 183,
+    "pokedexId": 183,
     "name": {
       "english": "Marill",
       "japanese": "マリル",
@@ -3740,7 +3740,7 @@
     }
   },
   {
-    "id": 184,
+    "pokedexId": 184,
     "name": {
       "english": "Azumarill",
       "japanese": "マリルリ",
@@ -3761,7 +3761,7 @@
     }
   },
   {
-    "id": 185,
+    "pokedexId": 185,
     "name": {
       "english": "Sudowoodo",
       "japanese": "ウソッキー",
@@ -3781,7 +3781,7 @@
     }
   },
   {
-    "id": 186,
+    "pokedexId": 186,
     "name": {
       "english": "Politoed",
       "japanese": "ニョロトノ",
@@ -3801,7 +3801,7 @@
     }
   },
   {
-    "id": 187,
+    "pokedexId": 187,
     "name": {
       "english": "Hoppip",
       "japanese": "ハネッコ",
@@ -3822,7 +3822,7 @@
     }
   },
   {
-    "id": 188,
+    "pokedexId": 188,
     "name": {
       "english": "Skiploom",
       "japanese": "ポポッコ",
@@ -3843,7 +3843,7 @@
     }
   },
   {
-    "id": 189,
+    "pokedexId": 189,
     "name": {
       "english": "Jumpluff",
       "japanese": "ワタッコ",
@@ -3864,7 +3864,7 @@
     }
   },
   {
-    "id": 190,
+    "pokedexId": 190,
     "name": {
       "english": "Aipom",
       "japanese": "エイパム",
@@ -3884,7 +3884,7 @@
     }
   },
   {
-    "id": 191,
+    "pokedexId": 191,
     "name": {
       "english": "Sunkern",
       "japanese": "ヒマナッツ",
@@ -3904,7 +3904,7 @@
     }
   },
   {
-    "id": 192,
+    "pokedexId": 192,
     "name": {
       "english": "Sunflora",
       "japanese": "キマワリ",
@@ -3924,7 +3924,7 @@
     }
   },
   {
-    "id": 193,
+    "pokedexId": 193,
     "name": {
       "english": "Yanma",
       "japanese": "ヤンヤンマ",
@@ -3945,7 +3945,7 @@
     }
   },
   {
-    "id": 194,
+    "pokedexId": 194,
     "name": {
       "english": "Wooper",
       "japanese": "ウパー",
@@ -3966,7 +3966,7 @@
     }
   },
   {
-    "id": 195,
+    "pokedexId": 195,
     "name": {
       "english": "Quagsire",
       "japanese": "ヌオー",
@@ -3987,7 +3987,7 @@
     }
   },
   {
-    "id": 196,
+    "pokedexId": 196,
     "name": {
       "english": "Espeon",
       "japanese": "エーフィ",
@@ -4007,7 +4007,7 @@
     }
   },
   {
-    "id": 197,
+    "pokedexId": 197,
     "name": {
       "english": "Umbreon",
       "japanese": "ブラッキー",
@@ -4027,7 +4027,7 @@
     }
   },
   {
-    "id": 198,
+    "pokedexId": 198,
     "name": {
       "english": "Murkrow",
       "japanese": "ヤミカラス",
@@ -4048,7 +4048,7 @@
     }
   },
   {
-    "id": 199,
+    "pokedexId": 199,
     "name": {
       "english": "Slowking",
       "japanese": "ヤドキング",
@@ -4069,7 +4069,7 @@
     }
   },
   {
-    "id": 200,
+    "pokedexId": 200,
     "name": {
       "english": "Misdreavus",
       "japanese": "ムウマ",
@@ -4089,7 +4089,7 @@
     }
   },
   {
-    "id": 201,
+    "pokedexId": 201,
     "name": {
       "english": "Unown",
       "japanese": "アンノーン",
@@ -4109,7 +4109,7 @@
     }
   },
   {
-    "id": 202,
+    "pokedexId": 202,
     "name": {
       "english": "Wobbuffet",
       "japanese": "ソーナンス",
@@ -4129,7 +4129,7 @@
     }
   },
   {
-    "id": 203,
+    "pokedexId": 203,
     "name": {
       "english": "Girafarig",
       "japanese": "キリンリキ",
@@ -4150,7 +4150,7 @@
     }
   },
   {
-    "id": 204,
+    "pokedexId": 204,
     "name": {
       "english": "Pineco",
       "japanese": "クヌギダマ",
@@ -4170,7 +4170,7 @@
     }
   },
   {
-    "id": 205,
+    "pokedexId": 205,
     "name": {
       "english": "Forretress",
       "japanese": "フォレトス",
@@ -4191,7 +4191,7 @@
     }
   },
   {
-    "id": 206,
+    "pokedexId": 206,
     "name": {
       "english": "Dunsparce",
       "japanese": "ノコッチ",
@@ -4211,7 +4211,7 @@
     }
   },
   {
-    "id": 207,
+    "pokedexId": 207,
     "name": {
       "english": "Gligar",
       "japanese": "グライガー",
@@ -4232,7 +4232,7 @@
     }
   },
   {
-    "id": 208,
+    "pokedexId": 208,
     "name": {
       "english": "Steelix",
       "japanese": "ハガネール",
@@ -4253,7 +4253,7 @@
     }
   },
   {
-    "id": 209,
+    "pokedexId": 209,
     "name": {
       "english": "Snubbull",
       "japanese": "ブルー",
@@ -4273,7 +4273,7 @@
     }
   },
   {
-    "id": 210,
+    "pokedexId": 210,
     "name": {
       "english": "Granbull",
       "japanese": "グランブル",
@@ -4293,7 +4293,7 @@
     }
   },
   {
-    "id": 211,
+    "pokedexId": 211,
     "name": {
       "english": "Qwilfish",
       "japanese": "ハリーセン",
@@ -4314,7 +4314,7 @@
     }
   },
   {
-    "id": 212,
+    "pokedexId": 212,
     "name": {
       "english": "Scizor",
       "japanese": "ハッサム",
@@ -4335,7 +4335,7 @@
     }
   },
   {
-    "id": 213,
+    "pokedexId": 213,
     "name": {
       "english": "Shuckle",
       "japanese": "ツボツボ",
@@ -4356,7 +4356,7 @@
     }
   },
   {
-    "id": 214,
+    "pokedexId": 214,
     "name": {
       "english": "Heracross",
       "japanese": "ヘラクロス",
@@ -4377,7 +4377,7 @@
     }
   },
   {
-    "id": 215,
+    "pokedexId": 215,
     "name": {
       "english": "Sneasel",
       "japanese": "ニューラ",
@@ -4398,7 +4398,7 @@
     }
   },
   {
-    "id": 216,
+    "pokedexId": 216,
     "name": {
       "english": "Teddiursa",
       "japanese": "ヒメグマ",
@@ -4418,7 +4418,7 @@
     }
   },
   {
-    "id": 217,
+    "pokedexId": 217,
     "name": {
       "english": "Ursaring",
       "japanese": "リングマ",
@@ -4438,7 +4438,7 @@
     }
   },
   {
-    "id": 218,
+    "pokedexId": 218,
     "name": {
       "english": "Slugma",
       "japanese": "マグマッグ",
@@ -4458,7 +4458,7 @@
     }
   },
   {
-    "id": 219,
+    "pokedexId": 219,
     "name": {
       "english": "Magcargo",
       "japanese": "マグカルゴ",
@@ -4479,7 +4479,7 @@
     }
   },
   {
-    "id": 220,
+    "pokedexId": 220,
     "name": {
       "english": "Swinub",
       "japanese": "ウリムー",
@@ -4500,7 +4500,7 @@
     }
   },
   {
-    "id": 221,
+    "pokedexId": 221,
     "name": {
       "english": "Piloswine",
       "japanese": "イノムー",
@@ -4521,7 +4521,7 @@
     }
   },
   {
-    "id": 222,
+    "pokedexId": 222,
     "name": {
       "english": "Corsola",
       "japanese": "サニーゴ",
@@ -4542,12 +4542,12 @@
     }
   },
   {
-    "id": 223,
+    "pokedexId": 223,
     "name": {
-      "english": "Remoraid",
+      "english": "RemorapokedexId",
       "japanese": "テッポウオ",
       "chinese": "铁炮鱼",
-      "french": "Rémoraid"
+      "french": "RémorapokedexId"
     },
     "type": [
       "Water"
@@ -4562,7 +4562,7 @@
     }
   },
   {
-    "id": 224,
+    "pokedexId": 224,
     "name": {
       "english": "Octillery",
       "japanese": "オクタン",
@@ -4582,7 +4582,7 @@
     }
   },
   {
-    "id": 225,
+    "pokedexId": 225,
     "name": {
       "english": "Delibird",
       "japanese": "デリバード",
@@ -4603,7 +4603,7 @@
     }
   },
   {
-    "id": 226,
+    "pokedexId": 226,
     "name": {
       "english": "Mantine",
       "japanese": "マンタイン",
@@ -4624,7 +4624,7 @@
     }
   },
   {
-    "id": 227,
+    "pokedexId": 227,
     "name": {
       "english": "Skarmory",
       "japanese": "エアームド",
@@ -4645,7 +4645,7 @@
     }
   },
   {
-    "id": 228,
+    "pokedexId": 228,
     "name": {
       "english": "Houndour",
       "japanese": "デルビル",
@@ -4666,7 +4666,7 @@
     }
   },
   {
-    "id": 229,
+    "pokedexId": 229,
     "name": {
       "english": "Houndoom",
       "japanese": "ヘルガー",
@@ -4687,7 +4687,7 @@
     }
   },
   {
-    "id": 230,
+    "pokedexId": 230,
     "name": {
       "english": "Kingdra",
       "japanese": "キングドラ",
@@ -4708,7 +4708,7 @@
     }
   },
   {
-    "id": 231,
+    "pokedexId": 231,
     "name": {
       "english": "Phanpy",
       "japanese": "ゴマゾウ",
@@ -4728,7 +4728,7 @@
     }
   },
   {
-    "id": 232,
+    "pokedexId": 232,
     "name": {
       "english": "Donphan",
       "japanese": "ドンファン",
@@ -4748,7 +4748,7 @@
     }
   },
   {
-    "id": 233,
+    "pokedexId": 233,
     "name": {
       "english": "Porygon2",
       "japanese": "ポリゴン２",
@@ -4768,7 +4768,7 @@
     }
   },
   {
-    "id": 234,
+    "pokedexId": 234,
     "name": {
       "english": "Stantler",
       "japanese": "オドシシ",
@@ -4788,7 +4788,7 @@
     }
   },
   {
-    "id": 235,
+    "pokedexId": 235,
     "name": {
       "english": "Smeargle",
       "japanese": "ドーブル",
@@ -4808,7 +4808,7 @@
     }
   },
   {
-    "id": 236,
+    "pokedexId": 236,
     "name": {
       "english": "Tyrogue",
       "japanese": "バルキー",
@@ -4828,7 +4828,7 @@
     }
   },
   {
-    "id": 237,
+    "pokedexId": 237,
     "name": {
       "english": "Hitmontop",
       "japanese": "カポエラー",
@@ -4848,7 +4848,7 @@
     }
   },
   {
-    "id": 238,
+    "pokedexId": 238,
     "name": {
       "english": "Smoochum",
       "japanese": "ムチュール",
@@ -4869,12 +4869,12 @@
     }
   },
   {
-    "id": 239,
+    "pokedexId": 239,
     "name": {
-      "english": "Elekid",
+      "english": "ElekpokedexId",
       "japanese": "エレキッド",
       "chinese": "电击怪",
-      "french": "Élekid"
+      "french": "ÉlekpokedexId"
     },
     "type": [
       "Electric"
@@ -4889,7 +4889,7 @@
     }
   },
   {
-    "id": 240,
+    "pokedexId": 240,
     "name": {
       "english": "Magby",
       "japanese": "ブビィ",
@@ -4909,7 +4909,7 @@
     }
   },
   {
-    "id": 241,
+    "pokedexId": 241,
     "name": {
       "english": "Miltank",
       "japanese": "ミルタンク",
@@ -4929,7 +4929,7 @@
     }
   },
   {
-    "id": 242,
+    "pokedexId": 242,
     "name": {
       "english": "Blissey",
       "japanese": "ハピナス",
@@ -4949,7 +4949,7 @@
     }
   },
   {
-    "id": 243,
+    "pokedexId": 243,
     "name": {
       "english": "Raikou",
       "japanese": "ライコウ",
@@ -4969,7 +4969,7 @@
     }
   },
   {
-    "id": 244,
+    "pokedexId": 244,
     "name": {
       "english": "Entei",
       "japanese": "エンテイ",
@@ -4989,7 +4989,7 @@
     }
   },
   {
-    "id": 245,
+    "pokedexId": 245,
     "name": {
       "english": "Suicune",
       "japanese": "スイクン",
@@ -5009,7 +5009,7 @@
     }
   },
   {
-    "id": 246,
+    "pokedexId": 246,
     "name": {
       "english": "Larvitar",
       "japanese": "ヨーギラス",
@@ -5030,7 +5030,7 @@
     }
   },
   {
-    "id": 247,
+    "pokedexId": 247,
     "name": {
       "english": "Pupitar",
       "japanese": "サナギラス",
@@ -5051,7 +5051,7 @@
     }
   },
   {
-    "id": 248,
+    "pokedexId": 248,
     "name": {
       "english": "Tyranitar",
       "japanese": "バンギラス",
@@ -5072,7 +5072,7 @@
     }
   },
   {
-    "id": 249,
+    "pokedexId": 249,
     "name": {
       "english": "Lugia",
       "japanese": "ルギア",
@@ -5093,7 +5093,7 @@
     }
   },
   {
-    "id": 250,
+    "pokedexId": 250,
     "name": {
       "english": "Ho-Oh",
       "japanese": "ホウオウ",
@@ -5114,7 +5114,7 @@
     }
   },
   {
-    "id": 251,
+    "pokedexId": 251,
     "name": {
       "english": "Celebi",
       "japanese": "セレビィ",
@@ -5135,7 +5135,7 @@
     }
   },
   {
-    "id": 252,
+    "pokedexId": 252,
     "name": {
       "english": "Treecko",
       "japanese": "キモリ",
@@ -5155,7 +5155,7 @@
     }
   },
   {
-    "id": 253,
+    "pokedexId": 253,
     "name": {
       "english": "Grovyle",
       "japanese": "ジュプトル",
@@ -5175,7 +5175,7 @@
     }
   },
   {
-    "id": 254,
+    "pokedexId": 254,
     "name": {
       "english": "Sceptile",
       "japanese": "ジュカイン",
@@ -5195,7 +5195,7 @@
     }
   },
   {
-    "id": 255,
+    "pokedexId": 255,
     "name": {
       "english": "Torchic",
       "japanese": "アチャモ",
@@ -5215,7 +5215,7 @@
     }
   },
   {
-    "id": 256,
+    "pokedexId": 256,
     "name": {
       "english": "Combusken",
       "japanese": "ワカシャモ",
@@ -5236,7 +5236,7 @@
     }
   },
   {
-    "id": 257,
+    "pokedexId": 257,
     "name": {
       "english": "Blaziken",
       "japanese": "バシャーモ",
@@ -5257,7 +5257,7 @@
     }
   },
   {
-    "id": 258,
+    "pokedexId": 258,
     "name": {
       "english": "Mudkip",
       "japanese": "ミズゴロウ",
@@ -5277,7 +5277,7 @@
     }
   },
   {
-    "id": 259,
+    "pokedexId": 259,
     "name": {
       "english": "Marshtomp",
       "japanese": "ヌマクロー",
@@ -5298,7 +5298,7 @@
     }
   },
   {
-    "id": 260,
+    "pokedexId": 260,
     "name": {
       "english": "Swampert",
       "japanese": "ラグラージ",
@@ -5319,7 +5319,7 @@
     }
   },
   {
-    "id": 261,
+    "pokedexId": 261,
     "name": {
       "english": "Poochyena",
       "japanese": "ポチエナ",
@@ -5339,7 +5339,7 @@
     }
   },
   {
-    "id": 262,
+    "pokedexId": 262,
     "name": {
       "english": "Mightyena",
       "japanese": "グラエナ",
@@ -5359,7 +5359,7 @@
     }
   },
   {
-    "id": 263,
+    "pokedexId": 263,
     "name": {
       "english": "Zigzagoon",
       "japanese": "ジグザグマ",
@@ -5379,7 +5379,7 @@
     }
   },
   {
-    "id": 264,
+    "pokedexId": 264,
     "name": {
       "english": "Linoone",
       "japanese": "マッスグマ",
@@ -5399,7 +5399,7 @@
     }
   },
   {
-    "id": 265,
+    "pokedexId": 265,
     "name": {
       "english": "Wurmple",
       "japanese": "ケムッソ",
@@ -5419,7 +5419,7 @@
     }
   },
   {
-    "id": 266,
+    "pokedexId": 266,
     "name": {
       "english": "Silcoon",
       "japanese": "カラサリス",
@@ -5439,7 +5439,7 @@
     }
   },
   {
-    "id": 267,
+    "pokedexId": 267,
     "name": {
       "english": "Beautifly",
       "japanese": "アゲハント",
@@ -5460,7 +5460,7 @@
     }
   },
   {
-    "id": 268,
+    "pokedexId": 268,
     "name": {
       "english": "Cascoon",
       "japanese": "マユルド",
@@ -5480,7 +5480,7 @@
     }
   },
   {
-    "id": 269,
+    "pokedexId": 269,
     "name": {
       "english": "Dustox",
       "japanese": "ドクケイル",
@@ -5501,7 +5501,7 @@
     }
   },
   {
-    "id": 270,
+    "pokedexId": 270,
     "name": {
       "english": "Lotad",
       "japanese": "ハスボー",
@@ -5522,7 +5522,7 @@
     }
   },
   {
-    "id": 271,
+    "pokedexId": 271,
     "name": {
       "english": "Lombre",
       "japanese": "ハスブレロ",
@@ -5543,7 +5543,7 @@
     }
   },
   {
-    "id": 272,
+    "pokedexId": 272,
     "name": {
       "english": "Ludicolo",
       "japanese": "ルンパッパ",
@@ -5564,7 +5564,7 @@
     }
   },
   {
-    "id": 273,
+    "pokedexId": 273,
     "name": {
       "english": "Seedot",
       "japanese": "タネボー",
@@ -5584,7 +5584,7 @@
     }
   },
   {
-    "id": 274,
+    "pokedexId": 274,
     "name": {
       "english": "Nuzleaf",
       "japanese": "コノハナ",
@@ -5605,7 +5605,7 @@
     }
   },
   {
-    "id": 275,
+    "pokedexId": 275,
     "name": {
       "english": "Shiftry",
       "japanese": "ダーテング",
@@ -5626,7 +5626,7 @@
     }
   },
   {
-    "id": 276,
+    "pokedexId": 276,
     "name": {
       "english": "Taillow",
       "japanese": "スバメ",
@@ -5647,7 +5647,7 @@
     }
   },
   {
-    "id": 277,
+    "pokedexId": 277,
     "name": {
       "english": "Swellow",
       "japanese": "オオスバメ",
@@ -5668,7 +5668,7 @@
     }
   },
   {
-    "id": 278,
+    "pokedexId": 278,
     "name": {
       "english": "Wingull",
       "japanese": "キャモメ",
@@ -5689,7 +5689,7 @@
     }
   },
   {
-    "id": 279,
+    "pokedexId": 279,
     "name": {
       "english": "Pelipper",
       "japanese": "ペリッパー",
@@ -5710,7 +5710,7 @@
     }
   },
   {
-    "id": 280,
+    "pokedexId": 280,
     "name": {
       "english": "Ralts",
       "japanese": "ラルトス",
@@ -5731,7 +5731,7 @@
     }
   },
   {
-    "id": 281,
+    "pokedexId": 281,
     "name": {
       "english": "Kirlia",
       "japanese": "キルリア",
@@ -5752,7 +5752,7 @@
     }
   },
   {
-    "id": 282,
+    "pokedexId": 282,
     "name": {
       "english": "Gardevoir",
       "japanese": "サーナイト",
@@ -5773,7 +5773,7 @@
     }
   },
   {
-    "id": 283,
+    "pokedexId": 283,
     "name": {
       "english": "Surskit",
       "japanese": "アメタマ",
@@ -5794,7 +5794,7 @@
     }
   },
   {
-    "id": 284,
+    "pokedexId": 284,
     "name": {
       "english": "Masquerain",
       "japanese": "アメモース",
@@ -5815,7 +5815,7 @@
     }
   },
   {
-    "id": 285,
+    "pokedexId": 285,
     "name": {
       "english": "Shroomish",
       "japanese": "キノココ",
@@ -5835,7 +5835,7 @@
     }
   },
   {
-    "id": 286,
+    "pokedexId": 286,
     "name": {
       "english": "Breloom",
       "japanese": "キノガッサ",
@@ -5856,7 +5856,7 @@
     }
   },
   {
-    "id": 287,
+    "pokedexId": 287,
     "name": {
       "english": "Slakoth",
       "japanese": "ナマケロ",
@@ -5876,7 +5876,7 @@
     }
   },
   {
-    "id": 288,
+    "pokedexId": 288,
     "name": {
       "english": "Vigoroth",
       "japanese": "ヤルキモノ",
@@ -5896,7 +5896,7 @@
     }
   },
   {
-    "id": 289,
+    "pokedexId": 289,
     "name": {
       "english": "Slaking",
       "japanese": "ケッキング",
@@ -5916,7 +5916,7 @@
     }
   },
   {
-    "id": 290,
+    "pokedexId": 290,
     "name": {
       "english": "Nincada",
       "japanese": "ツチニン",
@@ -5937,7 +5937,7 @@
     }
   },
   {
-    "id": 291,
+    "pokedexId": 291,
     "name": {
       "english": "Ninjask",
       "japanese": "テッカニン",
@@ -5958,7 +5958,7 @@
     }
   },
   {
-    "id": 292,
+    "pokedexId": 292,
     "name": {
       "english": "Shedinja",
       "japanese": "ヌケニン",
@@ -5979,7 +5979,7 @@
     }
   },
   {
-    "id": 293,
+    "pokedexId": 293,
     "name": {
       "english": "Whismur",
       "japanese": "ゴニョニョ",
@@ -5999,7 +5999,7 @@
     }
   },
   {
-    "id": 294,
+    "pokedexId": 294,
     "name": {
       "english": "Loudred",
       "japanese": "ドゴーム",
@@ -6019,7 +6019,7 @@
     }
   },
   {
-    "id": 295,
+    "pokedexId": 295,
     "name": {
       "english": "Exploud",
       "japanese": "バクオング",
@@ -6039,7 +6039,7 @@
     }
   },
   {
-    "id": 296,
+    "pokedexId": 296,
     "name": {
       "english": "Makuhita",
       "japanese": "マクノシタ",
@@ -6059,7 +6059,7 @@
     }
   },
   {
-    "id": 297,
+    "pokedexId": 297,
     "name": {
       "english": "Hariyama",
       "japanese": "ハリテヤマ",
@@ -6079,7 +6079,7 @@
     }
   },
   {
-    "id": 298,
+    "pokedexId": 298,
     "name": {
       "english": "Azurill",
       "japanese": "ルリリ",
@@ -6100,7 +6100,7 @@
     }
   },
   {
-    "id": 299,
+    "pokedexId": 299,
     "name": {
       "english": "Nosepass",
       "japanese": "ノズパス",
@@ -6120,7 +6120,7 @@
     }
   },
   {
-    "id": 300,
+    "pokedexId": 300,
     "name": {
       "english": "Skitty",
       "japanese": "エネコ",
@@ -6140,7 +6140,7 @@
     }
   },
   {
-    "id": 301,
+    "pokedexId": 301,
     "name": {
       "english": "Delcatty",
       "japanese": "エネコロロ",
@@ -6160,7 +6160,7 @@
     }
   },
   {
-    "id": 302,
+    "pokedexId": 302,
     "name": {
       "english": "Sableye",
       "japanese": "ヤミラミ",
@@ -6181,7 +6181,7 @@
     }
   },
   {
-    "id": 303,
+    "pokedexId": 303,
     "name": {
       "english": "Mawile",
       "japanese": "クチート",
@@ -6202,12 +6202,12 @@
     }
   },
   {
-    "id": 304,
+    "pokedexId": 304,
     "name": {
       "english": "Aron",
       "japanese": "ココドラ",
       "chinese": "可可多拉",
-      "french": "Galekid"
+      "french": "GalekpokedexId"
     },
     "type": [
       "Steel",
@@ -6223,7 +6223,7 @@
     }
   },
   {
-    "id": 305,
+    "pokedexId": 305,
     "name": {
       "english": "Lairon",
       "japanese": "コドラ",
@@ -6244,7 +6244,7 @@
     }
   },
   {
-    "id": 306,
+    "pokedexId": 306,
     "name": {
       "english": "Aggron",
       "japanese": "ボスゴドラ",
@@ -6265,7 +6265,7 @@
     }
   },
   {
-    "id": 307,
+    "pokedexId": 307,
     "name": {
       "english": "Meditite",
       "japanese": "アサナン",
@@ -6286,7 +6286,7 @@
     }
   },
   {
-    "id": 308,
+    "pokedexId": 308,
     "name": {
       "english": "Medicham",
       "japanese": "チャーレム",
@@ -6307,7 +6307,7 @@
     }
   },
   {
-    "id": 309,
+    "pokedexId": 309,
     "name": {
       "english": "Electrike",
       "japanese": "ラクライ",
@@ -6327,7 +6327,7 @@
     }
   },
   {
-    "id": 310,
+    "pokedexId": 310,
     "name": {
       "english": "Manectric",
       "japanese": "ライボルト",
@@ -6347,7 +6347,7 @@
     }
   },
   {
-    "id": 311,
+    "pokedexId": 311,
     "name": {
       "english": "Plusle",
       "japanese": "プラスル",
@@ -6367,7 +6367,7 @@
     }
   },
   {
-    "id": 312,
+    "pokedexId": 312,
     "name": {
       "english": "Minun",
       "japanese": "マイナン",
@@ -6387,7 +6387,7 @@
     }
   },
   {
-    "id": 313,
+    "pokedexId": 313,
     "name": {
       "english": "Volbeat",
       "japanese": "バルビート",
@@ -6407,7 +6407,7 @@
     }
   },
   {
-    "id": 314,
+    "pokedexId": 314,
     "name": {
       "english": "Illumise",
       "japanese": "イルミーゼ",
@@ -6427,7 +6427,7 @@
     }
   },
   {
-    "id": 315,
+    "pokedexId": 315,
     "name": {
       "english": "Roselia",
       "japanese": "ロゼリア",
@@ -6448,7 +6448,7 @@
     }
   },
   {
-    "id": 316,
+    "pokedexId": 316,
     "name": {
       "english": "Gulpin",
       "japanese": "ゴクリン",
@@ -6468,7 +6468,7 @@
     }
   },
   {
-    "id": 317,
+    "pokedexId": 317,
     "name": {
       "english": "Swalot",
       "japanese": "マルノーム",
@@ -6488,7 +6488,7 @@
     }
   },
   {
-    "id": 318,
+    "pokedexId": 318,
     "name": {
       "english": "Carvanha",
       "japanese": "キバニア",
@@ -6509,7 +6509,7 @@
     }
   },
   {
-    "id": 319,
+    "pokedexId": 319,
     "name": {
       "english": "Sharpedo",
       "japanese": "サメハダー",
@@ -6530,7 +6530,7 @@
     }
   },
   {
-    "id": 320,
+    "pokedexId": 320,
     "name": {
       "english": "Wailmer",
       "japanese": "ホエルコ",
@@ -6550,7 +6550,7 @@
     }
   },
   {
-    "id": 321,
+    "pokedexId": 321,
     "name": {
       "english": "Wailord",
       "japanese": "ホエルオー",
@@ -6570,7 +6570,7 @@
     }
   },
   {
-    "id": 322,
+    "pokedexId": 322,
     "name": {
       "english": "Numel",
       "japanese": "ドンメル",
@@ -6591,7 +6591,7 @@
     }
   },
   {
-    "id": 323,
+    "pokedexId": 323,
     "name": {
       "english": "Camerupt",
       "japanese": "バクーダ",
@@ -6612,7 +6612,7 @@
     }
   },
   {
-    "id": 324,
+    "pokedexId": 324,
     "name": {
       "english": "Torkoal",
       "japanese": "コータス",
@@ -6632,7 +6632,7 @@
     }
   },
   {
-    "id": 325,
+    "pokedexId": 325,
     "name": {
       "english": "Spoink",
       "japanese": "バネブー",
@@ -6652,7 +6652,7 @@
     }
   },
   {
-    "id": 326,
+    "pokedexId": 326,
     "name": {
       "english": "Grumpig",
       "japanese": "ブーピッグ",
@@ -6672,7 +6672,7 @@
     }
   },
   {
-    "id": 327,
+    "pokedexId": 327,
     "name": {
       "english": "Spinda",
       "japanese": "パッチール",
@@ -6692,7 +6692,7 @@
     }
   },
   {
-    "id": 328,
+    "pokedexId": 328,
     "name": {
       "english": "Trapinch",
       "japanese": "ナックラー",
@@ -6712,7 +6712,7 @@
     }
   },
   {
-    "id": 329,
+    "pokedexId": 329,
     "name": {
       "english": "Vibrava",
       "japanese": "ビブラーバ",
@@ -6733,7 +6733,7 @@
     }
   },
   {
-    "id": 330,
+    "pokedexId": 330,
     "name": {
       "english": "Flygon",
       "japanese": "フライゴン",
@@ -6754,7 +6754,7 @@
     }
   },
   {
-    "id": 331,
+    "pokedexId": 331,
     "name": {
       "english": "Cacnea",
       "japanese": "サボネア",
@@ -6774,7 +6774,7 @@
     }
   },
   {
-    "id": 332,
+    "pokedexId": 332,
     "name": {
       "english": "Cacturne",
       "japanese": "ノクタス",
@@ -6795,7 +6795,7 @@
     }
   },
   {
-    "id": 333,
+    "pokedexId": 333,
     "name": {
       "english": "Swablu",
       "japanese": "チルット",
@@ -6816,7 +6816,7 @@
     }
   },
   {
-    "id": 334,
+    "pokedexId": 334,
     "name": {
       "english": "Altaria",
       "japanese": "チルタリス",
@@ -6837,7 +6837,7 @@
     }
   },
   {
-    "id": 335,
+    "pokedexId": 335,
     "name": {
       "english": "Zangoose",
       "japanese": "ザングース",
@@ -6857,7 +6857,7 @@
     }
   },
   {
-    "id": 336,
+    "pokedexId": 336,
     "name": {
       "english": "Seviper",
       "japanese": "ハブネーク",
@@ -6877,7 +6877,7 @@
     }
   },
   {
-    "id": 337,
+    "pokedexId": 337,
     "name": {
       "english": "Lunatone",
       "japanese": "ルナトーン",
@@ -6898,7 +6898,7 @@
     }
   },
   {
-    "id": 338,
+    "pokedexId": 338,
     "name": {
       "english": "Solrock",
       "japanese": "ソルロック",
@@ -6919,7 +6919,7 @@
     }
   },
   {
-    "id": 339,
+    "pokedexId": 339,
     "name": {
       "english": "Barboach",
       "japanese": "ドジョッチ",
@@ -6940,7 +6940,7 @@
     }
   },
   {
-    "id": 340,
+    "pokedexId": 340,
     "name": {
       "english": "Whiscash",
       "japanese": "ナマズン",
@@ -6961,7 +6961,7 @@
     }
   },
   {
-    "id": 341,
+    "pokedexId": 341,
     "name": {
       "english": "Corphish",
       "japanese": "ヘイガニ",
@@ -6981,7 +6981,7 @@
     }
   },
   {
-    "id": 342,
+    "pokedexId": 342,
     "name": {
       "english": "Crawdaunt",
       "japanese": "シザリガー",
@@ -7002,7 +7002,7 @@
     }
   },
   {
-    "id": 343,
+    "pokedexId": 343,
     "name": {
       "english": "Baltoy",
       "japanese": "ヤジロン",
@@ -7023,7 +7023,7 @@
     }
   },
   {
-    "id": 344,
+    "pokedexId": 344,
     "name": {
       "english": "Claydol",
       "japanese": "ネンドール",
@@ -7044,7 +7044,7 @@
     }
   },
   {
-    "id": 345,
+    "pokedexId": 345,
     "name": {
       "english": "Lileep",
       "japanese": "リリーラ",
@@ -7065,7 +7065,7 @@
     }
   },
   {
-    "id": 346,
+    "pokedexId": 346,
     "name": {
       "english": "Cradily",
       "japanese": "ユレイドル",
@@ -7086,7 +7086,7 @@
     }
   },
   {
-    "id": 347,
+    "pokedexId": 347,
     "name": {
       "english": "Anorith",
       "japanese": "アノプス",
@@ -7107,7 +7107,7 @@
     }
   },
   {
-    "id": 348,
+    "pokedexId": 348,
     "name": {
       "english": "Armaldo",
       "japanese": "アーマルド",
@@ -7128,7 +7128,7 @@
     }
   },
   {
-    "id": 349,
+    "pokedexId": 349,
     "name": {
       "english": "Feebas",
       "japanese": "ヒンバス",
@@ -7148,7 +7148,7 @@
     }
   },
   {
-    "id": 350,
+    "pokedexId": 350,
     "name": {
       "english": "Milotic",
       "japanese": "ミロカロス",
@@ -7168,7 +7168,7 @@
     }
   },
   {
-    "id": 351,
+    "pokedexId": 351,
     "name": {
       "english": "Castform",
       "japanese": "ポワルン",
@@ -7188,7 +7188,7 @@
     }
   },
   {
-    "id": 352,
+    "pokedexId": 352,
     "name": {
       "english": "Kecleon",
       "japanese": "カクレオン",
@@ -7208,7 +7208,7 @@
     }
   },
   {
-    "id": 353,
+    "pokedexId": 353,
     "name": {
       "english": "Shuppet",
       "japanese": "カゲボウズ",
@@ -7228,7 +7228,7 @@
     }
   },
   {
-    "id": 354,
+    "pokedexId": 354,
     "name": {
       "english": "Banette",
       "japanese": "ジュペッタ",
@@ -7248,7 +7248,7 @@
     }
   },
   {
-    "id": 355,
+    "pokedexId": 355,
     "name": {
       "english": "Duskull",
       "japanese": "ヨマワル",
@@ -7268,7 +7268,7 @@
     }
   },
   {
-    "id": 356,
+    "pokedexId": 356,
     "name": {
       "english": "Dusclops",
       "japanese": "サマヨール",
@@ -7288,7 +7288,7 @@
     }
   },
   {
-    "id": 357,
+    "pokedexId": 357,
     "name": {
       "english": "Tropius",
       "japanese": "トロピウス",
@@ -7309,7 +7309,7 @@
     }
   },
   {
-    "id": 358,
+    "pokedexId": 358,
     "name": {
       "english": "Chimecho",
       "japanese": "チリーン",
@@ -7329,7 +7329,7 @@
     }
   },
   {
-    "id": 359,
+    "pokedexId": 359,
     "name": {
       "english": "Absol",
       "japanese": "アブソル",
@@ -7349,7 +7349,7 @@
     }
   },
   {
-    "id": 360,
+    "pokedexId": 360,
     "name": {
       "english": "Wynaut",
       "japanese": "ソーナノ",
@@ -7369,7 +7369,7 @@
     }
   },
   {
-    "id": 361,
+    "pokedexId": 361,
     "name": {
       "english": "Snorunt",
       "japanese": "ユキワラシ",
@@ -7389,7 +7389,7 @@
     }
   },
   {
-    "id": 362,
+    "pokedexId": 362,
     "name": {
       "english": "Glalie",
       "japanese": "オニゴーリ",
@@ -7409,7 +7409,7 @@
     }
   },
   {
-    "id": 363,
+    "pokedexId": 363,
     "name": {
       "english": "Spheal",
       "japanese": "タマザラシ",
@@ -7430,7 +7430,7 @@
     }
   },
   {
-    "id": 364,
+    "pokedexId": 364,
     "name": {
       "english": "Sealeo",
       "japanese": "トドグラー",
@@ -7451,7 +7451,7 @@
     }
   },
   {
-    "id": 365,
+    "pokedexId": 365,
     "name": {
       "english": "Walrein",
       "japanese": "トドゼルガ",
@@ -7472,7 +7472,7 @@
     }
   },
   {
-    "id": 366,
+    "pokedexId": 366,
     "name": {
       "english": "Clamperl",
       "japanese": "パールル",
@@ -7492,7 +7492,7 @@
     }
   },
   {
-    "id": 367,
+    "pokedexId": 367,
     "name": {
       "english": "Huntail",
       "japanese": "ハンテール",
@@ -7512,7 +7512,7 @@
     }
   },
   {
-    "id": 368,
+    "pokedexId": 368,
     "name": {
       "english": "Gorebyss",
       "japanese": "サクラビス",
@@ -7532,7 +7532,7 @@
     }
   },
   {
-    "id": 369,
+    "pokedexId": 369,
     "name": {
       "english": "Relicanth",
       "japanese": "ジーランス",
@@ -7553,7 +7553,7 @@
     }
   },
   {
-    "id": 370,
+    "pokedexId": 370,
     "name": {
       "english": "Luvdisc",
       "japanese": "ラブカス",
@@ -7573,7 +7573,7 @@
     }
   },
   {
-    "id": 371,
+    "pokedexId": 371,
     "name": {
       "english": "Bagon",
       "japanese": "タツベイ",
@@ -7593,7 +7593,7 @@
     }
   },
   {
-    "id": 372,
+    "pokedexId": 372,
     "name": {
       "english": "Shelgon",
       "japanese": "コモルー",
@@ -7613,7 +7613,7 @@
     }
   },
   {
-    "id": 373,
+    "pokedexId": 373,
     "name": {
       "english": "Salamence",
       "japanese": "ボーマンダ",
@@ -7634,7 +7634,7 @@
     }
   },
   {
-    "id": 374,
+    "pokedexId": 374,
     "name": {
       "english": "Beldum",
       "japanese": "ダンバル",
@@ -7655,7 +7655,7 @@
     }
   },
   {
-    "id": 375,
+    "pokedexId": 375,
     "name": {
       "english": "Metang",
       "japanese": "メタング",
@@ -7676,7 +7676,7 @@
     }
   },
   {
-    "id": 376,
+    "pokedexId": 376,
     "name": {
       "english": "Metagross",
       "japanese": "メタグロス",
@@ -7697,7 +7697,7 @@
     }
   },
   {
-    "id": 377,
+    "pokedexId": 377,
     "name": {
       "english": "Regirock",
       "japanese": "レジロック",
@@ -7717,7 +7717,7 @@
     }
   },
   {
-    "id": 378,
+    "pokedexId": 378,
     "name": {
       "english": "Regice",
       "japanese": "レジアイス",
@@ -7737,7 +7737,7 @@
     }
   },
   {
-    "id": 379,
+    "pokedexId": 379,
     "name": {
       "english": "Registeel",
       "japanese": "レジスチル",
@@ -7757,7 +7757,7 @@
     }
   },
   {
-    "id": 380,
+    "pokedexId": 380,
     "name": {
       "english": "Latias",
       "japanese": "ラティアス",
@@ -7778,7 +7778,7 @@
     }
   },
   {
-    "id": 381,
+    "pokedexId": 381,
     "name": {
       "english": "Latios",
       "japanese": "ラティオス",
@@ -7799,7 +7799,7 @@
     }
   },
   {
-    "id": 382,
+    "pokedexId": 382,
     "name": {
       "english": "Kyogre",
       "japanese": "カイオーガ",
@@ -7819,7 +7819,7 @@
     }
   },
   {
-    "id": 383,
+    "pokedexId": 383,
     "name": {
       "english": "Groudon",
       "japanese": "グラードン",
@@ -7839,7 +7839,7 @@
     }
   },
   {
-    "id": 384,
+    "pokedexId": 384,
     "name": {
       "english": "Rayquaza",
       "japanese": "レックウザ",
@@ -7860,7 +7860,7 @@
     }
   },
   {
-    "id": 385,
+    "pokedexId": 385,
     "name": {
       "english": "Jirachi",
       "japanese": "ジラーチ",
@@ -7881,7 +7881,7 @@
     }
   },
   {
-    "id": 386,
+    "pokedexId": 386,
     "name": {
       "english": "Deoxys",
       "japanese": "デオキシス",
@@ -7901,7 +7901,7 @@
     }
   },
   {
-    "id": 387,
+    "pokedexId": 387,
     "name": {
       "english": "Turtwig",
       "japanese": "ナエトル",
@@ -7921,7 +7921,7 @@
     }
   },
   {
-    "id": 388,
+    "pokedexId": 388,
     "name": {
       "english": "Grotle",
       "japanese": "ハヤシガメ",
@@ -7941,7 +7941,7 @@
     }
   },
   {
-    "id": 389,
+    "pokedexId": 389,
     "name": {
       "english": "Torterra",
       "japanese": "ドダイトス",
@@ -7962,7 +7962,7 @@
     }
   },
   {
-    "id": 390,
+    "pokedexId": 390,
     "name": {
       "english": "Chimchar",
       "japanese": "ヒコザル",
@@ -7982,7 +7982,7 @@
     }
   },
   {
-    "id": 391,
+    "pokedexId": 391,
     "name": {
       "english": "Monferno",
       "japanese": "モウカザル",
@@ -8003,7 +8003,7 @@
     }
   },
   {
-    "id": 392,
+    "pokedexId": 392,
     "name": {
       "english": "Infernape",
       "japanese": "ゴウカザル",
@@ -8024,7 +8024,7 @@
     }
   },
   {
-    "id": 393,
+    "pokedexId": 393,
     "name": {
       "english": "Piplup",
       "japanese": "ポッチャマ",
@@ -8044,7 +8044,7 @@
     }
   },
   {
-    "id": 394,
+    "pokedexId": 394,
     "name": {
       "english": "Prinplup",
       "japanese": "ポッタイシ",
@@ -8064,7 +8064,7 @@
     }
   },
   {
-    "id": 395,
+    "pokedexId": 395,
     "name": {
       "english": "Empoleon",
       "japanese": "エンペルト",
@@ -8085,7 +8085,7 @@
     }
   },
   {
-    "id": 396,
+    "pokedexId": 396,
     "name": {
       "english": "Starly",
       "japanese": "ムックル",
@@ -8106,7 +8106,7 @@
     }
   },
   {
-    "id": 397,
+    "pokedexId": 397,
     "name": {
       "english": "Staravia",
       "japanese": "ムクバード",
@@ -8127,7 +8127,7 @@
     }
   },
   {
-    "id": 398,
+    "pokedexId": 398,
     "name": {
       "english": "Staraptor",
       "japanese": "ムクホーク",
@@ -8148,9 +8148,9 @@
     }
   },
   {
-    "id": 399,
+    "pokedexId": 399,
     "name": {
-      "english": "Bidoof",
+      "english": "BpokedexIdoof",
       "japanese": "ビッパ",
       "chinese": "大牙狸",
       "french": "Keunotor"
@@ -8168,7 +8168,7 @@
     }
   },
   {
-    "id": 400,
+    "pokedexId": 400,
     "name": {
       "english": "Bibarel",
       "japanese": "ビーダル",
@@ -8189,7 +8189,7 @@
     }
   },
   {
-    "id": 401,
+    "pokedexId": 401,
     "name": {
       "english": "Kricketot",
       "japanese": "コロボーシ",
@@ -8209,7 +8209,7 @@
     }
   },
   {
-    "id": 402,
+    "pokedexId": 402,
     "name": {
       "english": "Kricketune",
       "japanese": "コロトック",
@@ -8229,7 +8229,7 @@
     }
   },
   {
-    "id": 403,
+    "pokedexId": 403,
     "name": {
       "english": "Shinx",
       "japanese": "コリンク",
@@ -8249,7 +8249,7 @@
     }
   },
   {
-    "id": 404,
+    "pokedexId": 404,
     "name": {
       "english": "Luxio",
       "japanese": "ルクシオ",
@@ -8269,7 +8269,7 @@
     }
   },
   {
-    "id": 405,
+    "pokedexId": 405,
     "name": {
       "english": "Luxray",
       "japanese": "レントラー",
@@ -8289,7 +8289,7 @@
     }
   },
   {
-    "id": 406,
+    "pokedexId": 406,
     "name": {
       "english": "Budew",
       "japanese": "スボミー",
@@ -8310,7 +8310,7 @@
     }
   },
   {
-    "id": 407,
+    "pokedexId": 407,
     "name": {
       "english": "Roserade",
       "japanese": "ロズレイド",
@@ -8331,12 +8331,12 @@
     }
   },
   {
-    "id": 408,
+    "pokedexId": 408,
     "name": {
-      "english": "Cranidos",
+      "english": "CranpokedexIdos",
       "japanese": "ズガイドス",
       "chinese": "头盖龙",
-      "french": "Kranidos"
+      "french": "KranpokedexIdos"
     },
     "type": [
       "Rock"
@@ -8351,7 +8351,7 @@
     }
   },
   {
-    "id": 409,
+    "pokedexId": 409,
     "name": {
       "english": "Rampardos",
       "japanese": "ラムパルド",
@@ -8371,7 +8371,7 @@
     }
   },
   {
-    "id": 410,
+    "pokedexId": 410,
     "name": {
       "english": "Shieldon",
       "japanese": "タテトプス",
@@ -8392,7 +8392,7 @@
     }
   },
   {
-    "id": 411,
+    "pokedexId": 411,
     "name": {
       "english": "Bastiodon",
       "japanese": "トリデプス",
@@ -8413,7 +8413,7 @@
     }
   },
   {
-    "id": 412,
+    "pokedexId": 412,
     "name": {
       "english": "Burmy",
       "japanese": "ミノムッチ",
@@ -8433,7 +8433,7 @@
     }
   },
   {
-    "id": 413,
+    "pokedexId": 413,
     "name": {
       "english": "Wormadam",
       "japanese": "ミノマダム",
@@ -8454,7 +8454,7 @@
     }
   },
   {
-    "id": 414,
+    "pokedexId": 414,
     "name": {
       "english": "Mothim",
       "japanese": "ガーメイル",
@@ -8475,7 +8475,7 @@
     }
   },
   {
-    "id": 415,
+    "pokedexId": 415,
     "name": {
       "english": "Combee",
       "japanese": "ミツハニー",
@@ -8496,7 +8496,7 @@
     }
   },
   {
-    "id": 416,
+    "pokedexId": 416,
     "name": {
       "english": "Vespiquen",
       "japanese": "ビークイン",
@@ -8517,7 +8517,7 @@
     }
   },
   {
-    "id": 417,
+    "pokedexId": 417,
     "name": {
       "english": "Pachirisu",
       "japanese": "パチリス",
@@ -8537,7 +8537,7 @@
     }
   },
   {
-    "id": 418,
+    "pokedexId": 418,
     "name": {
       "english": "Buizel",
       "japanese": "ブイゼル",
@@ -8557,7 +8557,7 @@
     }
   },
   {
-    "id": 419,
+    "pokedexId": 419,
     "name": {
       "english": "Floatzel",
       "japanese": "フローゼル",
@@ -8577,7 +8577,7 @@
     }
   },
   {
-    "id": 420,
+    "pokedexId": 420,
     "name": {
       "english": "Cherubi",
       "japanese": "チェリンボ",
@@ -8597,7 +8597,7 @@
     }
   },
   {
-    "id": 421,
+    "pokedexId": 421,
     "name": {
       "english": "Cherrim",
       "japanese": "チェリム",
@@ -8617,7 +8617,7 @@
     }
   },
   {
-    "id": 422,
+    "pokedexId": 422,
     "name": {
       "english": "Shellos",
       "japanese": "カラナクシ",
@@ -8637,7 +8637,7 @@
     }
   },
   {
-    "id": 423,
+    "pokedexId": 423,
     "name": {
       "english": "Gastrodon",
       "japanese": "トリトドン",
@@ -8658,12 +8658,12 @@
     }
   },
   {
-    "id": 424,
+    "pokedexId": 424,
     "name": {
       "english": "Ambipom",
       "japanese": "エテボース",
       "chinese": "双尾怪手",
-      "french": "Capidextre"
+      "french": "CappokedexIdextre"
     },
     "type": [
       "Normal"
@@ -8678,7 +8678,7 @@
     }
   },
   {
-    "id": 425,
+    "pokedexId": 425,
     "name": {
       "english": "Drifloon",
       "japanese": "フワンテ",
@@ -8699,7 +8699,7 @@
     }
   },
   {
-    "id": 426,
+    "pokedexId": 426,
     "name": {
       "english": "Drifblim",
       "japanese": "フワライド",
@@ -8720,7 +8720,7 @@
     }
   },
   {
-    "id": 427,
+    "pokedexId": 427,
     "name": {
       "english": "Buneary",
       "japanese": "ミミロル",
@@ -8740,7 +8740,7 @@
     }
   },
   {
-    "id": 428,
+    "pokedexId": 428,
     "name": {
       "english": "Lopunny",
       "japanese": "ミミロップ",
@@ -8760,7 +8760,7 @@
     }
   },
   {
-    "id": 429,
+    "pokedexId": 429,
     "name": {
       "english": "Mismagius",
       "japanese": "ムウマージ",
@@ -8780,7 +8780,7 @@
     }
   },
   {
-    "id": 430,
+    "pokedexId": 430,
     "name": {
       "english": "Honchkrow",
       "japanese": "ドンカラス",
@@ -8801,7 +8801,7 @@
     }
   },
   {
-    "id": 431,
+    "pokedexId": 431,
     "name": {
       "english": "Glameow",
       "japanese": "ニャルマー",
@@ -8821,7 +8821,7 @@
     }
   },
   {
-    "id": 432,
+    "pokedexId": 432,
     "name": {
       "english": "Purugly",
       "japanese": "ブニャット",
@@ -8841,7 +8841,7 @@
     }
   },
   {
-    "id": 433,
+    "pokedexId": 433,
     "name": {
       "english": "Chingling",
       "japanese": "リーシャン",
@@ -8861,7 +8861,7 @@
     }
   },
   {
-    "id": 434,
+    "pokedexId": 434,
     "name": {
       "english": "Stunky",
       "japanese": "スカンプー",
@@ -8882,7 +8882,7 @@
     }
   },
   {
-    "id": 435,
+    "pokedexId": 435,
     "name": {
       "english": "Skuntank",
       "japanese": "スカタンク",
@@ -8903,7 +8903,7 @@
     }
   },
   {
-    "id": 436,
+    "pokedexId": 436,
     "name": {
       "english": "Bronzor",
       "japanese": "ドーミラー",
@@ -8924,7 +8924,7 @@
     }
   },
   {
-    "id": 437,
+    "pokedexId": 437,
     "name": {
       "english": "Bronzong",
       "japanese": "ドータクン",
@@ -8945,7 +8945,7 @@
     }
   },
   {
-    "id": 438,
+    "pokedexId": 438,
     "name": {
       "english": "Bonsly",
       "japanese": "ウソハチ",
@@ -8965,7 +8965,7 @@
     }
   },
   {
-    "id": 439,
+    "pokedexId": 439,
     "name": {
       "english": "Mime Jr.",
       "japanese": "マネネ",
@@ -8986,7 +8986,7 @@
     }
   },
   {
-    "id": 440,
+    "pokedexId": 440,
     "name": {
       "english": "Happiny",
       "japanese": "ピンプク",
@@ -9006,7 +9006,7 @@
     }
   },
   {
-    "id": 441,
+    "pokedexId": 441,
     "name": {
       "english": "Chatot",
       "japanese": "ペラップ",
@@ -9027,7 +9027,7 @@
     }
   },
   {
-    "id": 442,
+    "pokedexId": 442,
     "name": {
       "english": "Spiritomb",
       "japanese": "ミカルゲ",
@@ -9048,7 +9048,7 @@
     }
   },
   {
-    "id": 443,
+    "pokedexId": 443,
     "name": {
       "english": "Gible",
       "japanese": "フカマル",
@@ -9069,7 +9069,7 @@
     }
   },
   {
-    "id": 444,
+    "pokedexId": 444,
     "name": {
       "english": "Gabite",
       "japanese": "ガバイト",
@@ -9090,7 +9090,7 @@
     }
   },
   {
-    "id": 445,
+    "pokedexId": 445,
     "name": {
       "english": "Garchomp",
       "japanese": "ガブリアス",
@@ -9111,7 +9111,7 @@
     }
   },
   {
-    "id": 446,
+    "pokedexId": 446,
     "name": {
       "english": "Munchlax",
       "japanese": "ゴンベ",
@@ -9131,7 +9131,7 @@
     }
   },
   {
-    "id": 447,
+    "pokedexId": 447,
     "name": {
       "english": "Riolu",
       "japanese": "リオル",
@@ -9151,7 +9151,7 @@
     }
   },
   {
-    "id": 448,
+    "pokedexId": 448,
     "name": {
       "english": "Lucario",
       "japanese": "ルカリオ",
@@ -9172,7 +9172,7 @@
     }
   },
   {
-    "id": 449,
+    "pokedexId": 449,
     "name": {
       "english": "Hippopotas",
       "japanese": "ヒポポタス",
@@ -9192,7 +9192,7 @@
     }
   },
   {
-    "id": 450,
+    "pokedexId": 450,
     "name": {
       "english": "Hippowdon",
       "japanese": "カバルドン",
@@ -9212,7 +9212,7 @@
     }
   },
   {
-    "id": 451,
+    "pokedexId": 451,
     "name": {
       "english": "Skorupi",
       "japanese": "スコルピ",
@@ -9233,7 +9233,7 @@
     }
   },
   {
-    "id": 452,
+    "pokedexId": 452,
     "name": {
       "english": "Drapion",
       "japanese": "ドラピオン",
@@ -9254,7 +9254,7 @@
     }
   },
   {
-    "id": 453,
+    "pokedexId": 453,
     "name": {
       "english": "Croagunk",
       "japanese": "グレッグル",
@@ -9275,7 +9275,7 @@
     }
   },
   {
-    "id": 454,
+    "pokedexId": 454,
     "name": {
       "english": "Toxicroak",
       "japanese": "ドクロッグ",
@@ -9296,7 +9296,7 @@
     }
   },
   {
-    "id": 455,
+    "pokedexId": 455,
     "name": {
       "english": "Carnivine",
       "japanese": "マスキッパ",
@@ -9316,7 +9316,7 @@
     }
   },
   {
-    "id": 456,
+    "pokedexId": 456,
     "name": {
       "english": "Finneon",
       "japanese": "ケイコウオ",
@@ -9336,7 +9336,7 @@
     }
   },
   {
-    "id": 457,
+    "pokedexId": 457,
     "name": {
       "english": "Lumineon",
       "japanese": "ネオラント",
@@ -9356,7 +9356,7 @@
     }
   },
   {
-    "id": 458,
+    "pokedexId": 458,
     "name": {
       "english": "Mantyke",
       "japanese": "タマンタ",
@@ -9377,7 +9377,7 @@
     }
   },
   {
-    "id": 459,
+    "pokedexId": 459,
     "name": {
       "english": "Snover",
       "japanese": "ユキカブリ",
@@ -9398,7 +9398,7 @@
     }
   },
   {
-    "id": 460,
+    "pokedexId": 460,
     "name": {
       "english": "Abomasnow",
       "japanese": "ユキノオー",
@@ -9419,7 +9419,7 @@
     }
   },
   {
-    "id": 461,
+    "pokedexId": 461,
     "name": {
       "english": "Weavile",
       "japanese": "マニューラ",
@@ -9440,7 +9440,7 @@
     }
   },
   {
-    "id": 462,
+    "pokedexId": 462,
     "name": {
       "english": "Magnezone",
       "japanese": "ジバコイル",
@@ -9461,7 +9461,7 @@
     }
   },
   {
-    "id": 463,
+    "pokedexId": 463,
     "name": {
       "english": "Lickilicky",
       "japanese": "ベロベルト",
@@ -9481,7 +9481,7 @@
     }
   },
   {
-    "id": 464,
+    "pokedexId": 464,
     "name": {
       "english": "Rhyperior",
       "japanese": "ドサイドン",
@@ -9502,7 +9502,7 @@
     }
   },
   {
-    "id": 465,
+    "pokedexId": 465,
     "name": {
       "english": "Tangrowth",
       "japanese": "モジャンボ",
@@ -9522,7 +9522,7 @@
     }
   },
   {
-    "id": 466,
+    "pokedexId": 466,
     "name": {
       "english": "Electivire",
       "japanese": "エレキブル",
@@ -9542,7 +9542,7 @@
     }
   },
   {
-    "id": 467,
+    "pokedexId": 467,
     "name": {
       "english": "Magmortar",
       "japanese": "ブーバーン",
@@ -9562,7 +9562,7 @@
     }
   },
   {
-    "id": 468,
+    "pokedexId": 468,
     "name": {
       "english": "Togekiss",
       "japanese": "トゲキッス",
@@ -9583,7 +9583,7 @@
     }
   },
   {
-    "id": 469,
+    "pokedexId": 469,
     "name": {
       "english": "Yanmega",
       "japanese": "メガヤンマ",
@@ -9604,7 +9604,7 @@
     }
   },
   {
-    "id": 470,
+    "pokedexId": 470,
     "name": {
       "english": "Leafeon",
       "japanese": "リーフィア",
@@ -9624,7 +9624,7 @@
     }
   },
   {
-    "id": 471,
+    "pokedexId": 471,
     "name": {
       "english": "Glaceon",
       "japanese": "グレイシア",
@@ -9644,7 +9644,7 @@
     }
   },
   {
-    "id": 472,
+    "pokedexId": 472,
     "name": {
       "english": "Gliscor",
       "japanese": "グライオン",
@@ -9665,7 +9665,7 @@
     }
   },
   {
-    "id": 473,
+    "pokedexId": 473,
     "name": {
       "english": "Mamoswine",
       "japanese": "マンムー",
@@ -9686,7 +9686,7 @@
     }
   },
   {
-    "id": 474,
+    "pokedexId": 474,
     "name": {
       "english": "Porygon-Z",
       "japanese": "ポリゴンＺ",
@@ -9706,7 +9706,7 @@
     }
   },
   {
-    "id": 475,
+    "pokedexId": 475,
     "name": {
       "english": "Gallade",
       "japanese": "エルレイド",
@@ -9727,7 +9727,7 @@
     }
   },
   {
-    "id": 476,
+    "pokedexId": 476,
     "name": {
       "english": "Probopass",
       "japanese": "ダイノーズ",
@@ -9748,7 +9748,7 @@
     }
   },
   {
-    "id": 477,
+    "pokedexId": 477,
     "name": {
       "english": "Dusknoir",
       "japanese": "ヨノワール",
@@ -9768,7 +9768,7 @@
     }
   },
   {
-    "id": 478,
+    "pokedexId": 478,
     "name": {
       "english": "Froslass",
       "japanese": "ユキメノコ",
@@ -9789,7 +9789,7 @@
     }
   },
   {
-    "id": 479,
+    "pokedexId": 479,
     "name": {
       "english": "Rotom",
       "japanese": "ロトム",
@@ -9810,7 +9810,7 @@
     }
   },
   {
-    "id": 480,
+    "pokedexId": 480,
     "name": {
       "english": "Uxie",
       "japanese": "ユクシー",
@@ -9830,7 +9830,7 @@
     }
   },
   {
-    "id": 481,
+    "pokedexId": 481,
     "name": {
       "english": "Mesprit",
       "japanese": "エムリット",
@@ -9850,7 +9850,7 @@
     }
   },
   {
-    "id": 482,
+    "pokedexId": 482,
     "name": {
       "english": "Azelf",
       "japanese": "アグノム",
@@ -9870,7 +9870,7 @@
     }
   },
   {
-    "id": 483,
+    "pokedexId": 483,
     "name": {
       "english": "Dialga",
       "japanese": "ディアルガ",
@@ -9891,7 +9891,7 @@
     }
   },
   {
-    "id": 484,
+    "pokedexId": 484,
     "name": {
       "english": "Palkia",
       "japanese": "パルキア",
@@ -9912,7 +9912,7 @@
     }
   },
   {
-    "id": 485,
+    "pokedexId": 485,
     "name": {
       "english": "Heatran",
       "japanese": "ヒードラン",
@@ -9933,7 +9933,7 @@
     }
   },
   {
-    "id": 486,
+    "pokedexId": 486,
     "name": {
       "english": "Regigigas",
       "japanese": "レジギガス",
@@ -9953,7 +9953,7 @@
     }
   },
   {
-    "id": 487,
+    "pokedexId": 487,
     "name": {
       "english": "Giratina",
       "japanese": "ギラティナ",
@@ -9974,7 +9974,7 @@
     }
   },
   {
-    "id": 488,
+    "pokedexId": 488,
     "name": {
       "english": "Cresselia",
       "japanese": "クレセリア",
@@ -9994,7 +9994,7 @@
     }
   },
   {
-    "id": 489,
+    "pokedexId": 489,
     "name": {
       "english": "Phione",
       "japanese": "フィオネ",
@@ -10014,7 +10014,7 @@
     }
   },
   {
-    "id": 490,
+    "pokedexId": 490,
     "name": {
       "english": "Manaphy",
       "japanese": "マナフィ",
@@ -10034,7 +10034,7 @@
     }
   },
   {
-    "id": 491,
+    "pokedexId": 491,
     "name": {
       "english": "Darkrai",
       "japanese": "ダークライ",
@@ -10054,7 +10054,7 @@
     }
   },
   {
-    "id": 492,
+    "pokedexId": 492,
     "name": {
       "english": "Shaymin",
       "japanese": "シェイミ",
@@ -10074,7 +10074,7 @@
     }
   },
   {
-    "id": 493,
+    "pokedexId": 493,
     "name": {
       "english": "Arceus",
       "japanese": "アルセウス",
@@ -10094,7 +10094,7 @@
     }
   },
   {
-    "id": 494,
+    "pokedexId": 494,
     "name": {
       "english": "Victini",
       "japanese": "ビクティニ",
@@ -10115,7 +10115,7 @@
     }
   },
   {
-    "id": 495,
+    "pokedexId": 495,
     "name": {
       "english": "Snivy",
       "japanese": "ツタージャ",
@@ -10135,7 +10135,7 @@
     }
   },
   {
-    "id": 496,
+    "pokedexId": 496,
     "name": {
       "english": "Servine",
       "japanese": "ジャノビー",
@@ -10155,7 +10155,7 @@
     }
   },
   {
-    "id": 497,
+    "pokedexId": 497,
     "name": {
       "english": "Serperior",
       "japanese": "ジャローダ",
@@ -10175,7 +10175,7 @@
     }
   },
   {
-    "id": 498,
+    "pokedexId": 498,
     "name": {
       "english": "Tepig",
       "japanese": "ポカブ",
@@ -10195,7 +10195,7 @@
     }
   },
   {
-    "id": 499,
+    "pokedexId": 499,
     "name": {
       "english": "Pignite",
       "japanese": "チャオブー",
@@ -10216,7 +10216,7 @@
     }
   },
   {
-    "id": 500,
+    "pokedexId": 500,
     "name": {
       "english": "Emboar",
       "japanese": "エンブオー",
@@ -10237,7 +10237,7 @@
     }
   },
   {
-    "id": 501,
+    "pokedexId": 501,
     "name": {
       "english": "Oshawott",
       "japanese": "ミジュマル",
@@ -10257,7 +10257,7 @@
     }
   },
   {
-    "id": 502,
+    "pokedexId": 502,
     "name": {
       "english": "Dewott",
       "japanese": "フタチマル",
@@ -10277,7 +10277,7 @@
     }
   },
   {
-    "id": 503,
+    "pokedexId": 503,
     "name": {
       "english": "Samurott",
       "japanese": "ダイケンキ",
@@ -10297,7 +10297,7 @@
     }
   },
   {
-    "id": 504,
+    "pokedexId": 504,
     "name": {
       "english": "Patrat",
       "japanese": "ミネズミ",
@@ -10317,7 +10317,7 @@
     }
   },
   {
-    "id": 505,
+    "pokedexId": 505,
     "name": {
       "english": "Watchog",
       "japanese": "ミルホッグ",
@@ -10337,7 +10337,7 @@
     }
   },
   {
-    "id": 506,
+    "pokedexId": 506,
     "name": {
       "english": "Lillipup",
       "japanese": "ヨーテリー",
@@ -10357,7 +10357,7 @@
     }
   },
   {
-    "id": 507,
+    "pokedexId": 507,
     "name": {
       "english": "Herdier",
       "japanese": "ハーデリア",
@@ -10377,7 +10377,7 @@
     }
   },
   {
-    "id": 508,
+    "pokedexId": 508,
     "name": {
       "english": "Stoutland",
       "japanese": "ムーランド",
@@ -10397,7 +10397,7 @@
     }
   },
   {
-    "id": 509,
+    "pokedexId": 509,
     "name": {
       "english": "Purrloin",
       "japanese": "チョロネコ",
@@ -10417,7 +10417,7 @@
     }
   },
   {
-    "id": 510,
+    "pokedexId": 510,
     "name": {
       "english": "Liepard",
       "japanese": "レパルダス",
@@ -10437,7 +10437,7 @@
     }
   },
   {
-    "id": 511,
+    "pokedexId": 511,
     "name": {
       "english": "Pansage",
       "japanese": "ヤナップ",
@@ -10457,7 +10457,7 @@
     }
   },
   {
-    "id": 512,
+    "pokedexId": 512,
     "name": {
       "english": "Simisage",
       "japanese": "ヤナッキー",
@@ -10477,7 +10477,7 @@
     }
   },
   {
-    "id": 513,
+    "pokedexId": 513,
     "name": {
       "english": "Pansear",
       "japanese": "バオップ",
@@ -10497,7 +10497,7 @@
     }
   },
   {
-    "id": 514,
+    "pokedexId": 514,
     "name": {
       "english": "Simisear",
       "japanese": "バオッキー",
@@ -10517,7 +10517,7 @@
     }
   },
   {
-    "id": 515,
+    "pokedexId": 515,
     "name": {
       "english": "Panpour",
       "japanese": "ヒヤップ",
@@ -10537,7 +10537,7 @@
     }
   },
   {
-    "id": 516,
+    "pokedexId": 516,
     "name": {
       "english": "Simipour",
       "japanese": "ヒヤッキー",
@@ -10557,7 +10557,7 @@
     }
   },
   {
-    "id": 517,
+    "pokedexId": 517,
     "name": {
       "english": "Munna",
       "japanese": "ムンナ",
@@ -10577,7 +10577,7 @@
     }
   },
   {
-    "id": 518,
+    "pokedexId": 518,
     "name": {
       "english": "Musharna",
       "japanese": "ムシャーナ",
@@ -10597,9 +10597,9 @@
     }
   },
   {
-    "id": 519,
+    "pokedexId": 519,
     "name": {
-      "english": "Pidove",
+      "english": "PpokedexIdove",
       "japanese": "マメパト",
       "chinese": "豆豆鸽",
       "french": "Poichigeon"
@@ -10618,7 +10618,7 @@
     }
   },
   {
-    "id": 520,
+    "pokedexId": 520,
     "name": {
       "english": "Tranquill",
       "japanese": "ハトーボー",
@@ -10639,7 +10639,7 @@
     }
   },
   {
-    "id": 521,
+    "pokedexId": 521,
     "name": {
       "english": "Unfezant",
       "japanese": "ケンホロウ",
@@ -10660,7 +10660,7 @@
     }
   },
   {
-    "id": 522,
+    "pokedexId": 522,
     "name": {
       "english": "Blitzle",
       "japanese": "シママ",
@@ -10680,7 +10680,7 @@
     }
   },
   {
-    "id": 523,
+    "pokedexId": 523,
     "name": {
       "english": "Zebstrika",
       "japanese": "ゼブライカ",
@@ -10700,7 +10700,7 @@
     }
   },
   {
-    "id": 524,
+    "pokedexId": 524,
     "name": {
       "english": "Roggenrola",
       "japanese": "ダンゴロ",
@@ -10720,7 +10720,7 @@
     }
   },
   {
-    "id": 525,
+    "pokedexId": 525,
     "name": {
       "english": "Boldore",
       "japanese": "ガントル",
@@ -10740,7 +10740,7 @@
     }
   },
   {
-    "id": 526,
+    "pokedexId": 526,
     "name": {
       "english": "Gigalith",
       "japanese": "ギガイアス",
@@ -10760,7 +10760,7 @@
     }
   },
   {
-    "id": 527,
+    "pokedexId": 527,
     "name": {
       "english": "Woobat",
       "japanese": "コロモリ",
@@ -10781,7 +10781,7 @@
     }
   },
   {
-    "id": 528,
+    "pokedexId": 528,
     "name": {
       "english": "Swoobat",
       "japanese": "ココロモリ",
@@ -10802,7 +10802,7 @@
     }
   },
   {
-    "id": 529,
+    "pokedexId": 529,
     "name": {
       "english": "Drilbur",
       "japanese": "モグリュー",
@@ -10822,7 +10822,7 @@
     }
   },
   {
-    "id": 530,
+    "pokedexId": 530,
     "name": {
       "english": "Excadrill",
       "japanese": "ドリュウズ",
@@ -10843,7 +10843,7 @@
     }
   },
   {
-    "id": 531,
+    "pokedexId": 531,
     "name": {
       "english": "Audino",
       "japanese": "タブンネ",
@@ -10863,7 +10863,7 @@
     }
   },
   {
-    "id": 532,
+    "pokedexId": 532,
     "name": {
       "english": "Timburr",
       "japanese": "ドッコラー",
@@ -10883,7 +10883,7 @@
     }
   },
   {
-    "id": 533,
+    "pokedexId": 533,
     "name": {
       "english": "Gurdurr",
       "japanese": "ドテッコツ",
@@ -10903,7 +10903,7 @@
     }
   },
   {
-    "id": 534,
+    "pokedexId": 534,
     "name": {
       "english": "Conkeldurr",
       "japanese": "ローブシン",
@@ -10923,7 +10923,7 @@
     }
   },
   {
-    "id": 535,
+    "pokedexId": 535,
     "name": {
       "english": "Tympole",
       "japanese": "オタマロ",
@@ -10943,7 +10943,7 @@
     }
   },
   {
-    "id": 536,
+    "pokedexId": 536,
     "name": {
       "english": "Palpitoad",
       "japanese": "ガマガル",
@@ -10964,7 +10964,7 @@
     }
   },
   {
-    "id": 537,
+    "pokedexId": 537,
     "name": {
       "english": "Seismitoad",
       "japanese": "ガマゲロゲ",
@@ -10985,7 +10985,7 @@
     }
   },
   {
-    "id": 538,
+    "pokedexId": 538,
     "name": {
       "english": "Throh",
       "japanese": "ナゲキ",
@@ -11005,7 +11005,7 @@
     }
   },
   {
-    "id": 539,
+    "pokedexId": 539,
     "name": {
       "english": "Sawk",
       "japanese": "ダゲキ",
@@ -11025,7 +11025,7 @@
     }
   },
   {
-    "id": 540,
+    "pokedexId": 540,
     "name": {
       "english": "Sewaddle",
       "japanese": "クルミル",
@@ -11046,7 +11046,7 @@
     }
   },
   {
-    "id": 541,
+    "pokedexId": 541,
     "name": {
       "english": "Swadloon",
       "japanese": "クルマユ",
@@ -11067,7 +11067,7 @@
     }
   },
   {
-    "id": 542,
+    "pokedexId": 542,
     "name": {
       "english": "Leavanny",
       "japanese": "ハハコモリ",
@@ -11088,7 +11088,7 @@
     }
   },
   {
-    "id": 543,
+    "pokedexId": 543,
     "name": {
       "english": "Venipede",
       "japanese": "フシデ",
@@ -11109,12 +11109,12 @@
     }
   },
   {
-    "id": 544,
+    "pokedexId": 544,
     "name": {
       "english": "Whirlipede",
       "japanese": "ホイーガ",
       "chinese": "车轮球",
-      "french": "Scobolide"
+      "french": "ScobolpokedexIde"
     },
     "type": [
       "Bug",
@@ -11130,7 +11130,7 @@
     }
   },
   {
-    "id": 545,
+    "pokedexId": 545,
     "name": {
       "english": "Scolipede",
       "japanese": "ペンドラー",
@@ -11151,7 +11151,7 @@
     }
   },
   {
-    "id": 546,
+    "pokedexId": 546,
     "name": {
       "english": "Cottonee",
       "japanese": "モンメン",
@@ -11172,7 +11172,7 @@
     }
   },
   {
-    "id": 547,
+    "pokedexId": 547,
     "name": {
       "english": "Whimsicott",
       "japanese": "エルフーン",
@@ -11193,7 +11193,7 @@
     }
   },
   {
-    "id": 548,
+    "pokedexId": 548,
     "name": {
       "english": "Petilil",
       "japanese": "チュリネ",
@@ -11213,7 +11213,7 @@
     }
   },
   {
-    "id": 549,
+    "pokedexId": 549,
     "name": {
       "english": "Lilligant",
       "japanese": "ドレディア",
@@ -11233,7 +11233,7 @@
     }
   },
   {
-    "id": 550,
+    "pokedexId": 550,
     "name": {
       "english": "Basculin",
       "japanese": "バスラオ",
@@ -11253,7 +11253,7 @@
     }
   },
   {
-    "id": 551,
+    "pokedexId": 551,
     "name": {
       "english": "Sandile",
       "japanese": "メグロコ",
@@ -11274,7 +11274,7 @@
     }
   },
   {
-    "id": 552,
+    "pokedexId": 552,
     "name": {
       "english": "Krokorok",
       "japanese": "ワルビル",
@@ -11295,7 +11295,7 @@
     }
   },
   {
-    "id": 553,
+    "pokedexId": 553,
     "name": {
       "english": "Krookodile",
       "japanese": "ワルビアル",
@@ -11316,7 +11316,7 @@
     }
   },
   {
-    "id": 554,
+    "pokedexId": 554,
     "name": {
       "english": "Darumaka",
       "japanese": "ダルマッカ",
@@ -11336,7 +11336,7 @@
     }
   },
   {
-    "id": 555,
+    "pokedexId": 555,
     "name": {
       "english": "Darmanitan",
       "japanese": "ヒヒダルマ",
@@ -11356,7 +11356,7 @@
     }
   },
   {
-    "id": 556,
+    "pokedexId": 556,
     "name": {
       "english": "Maractus",
       "japanese": "マラカッチ",
@@ -11376,7 +11376,7 @@
     }
   },
   {
-    "id": 557,
+    "pokedexId": 557,
     "name": {
       "english": "Dwebble",
       "japanese": "イシズマイ",
@@ -11397,7 +11397,7 @@
     }
   },
   {
-    "id": 558,
+    "pokedexId": 558,
     "name": {
       "english": "Crustle",
       "japanese": "イワパレス",
@@ -11418,7 +11418,7 @@
     }
   },
   {
-    "id": 559,
+    "pokedexId": 559,
     "name": {
       "english": "Scraggy",
       "japanese": "ズルッグ",
@@ -11439,7 +11439,7 @@
     }
   },
   {
-    "id": 560,
+    "pokedexId": 560,
     "name": {
       "english": "Scrafty",
       "japanese": "ズルズキン",
@@ -11460,7 +11460,7 @@
     }
   },
   {
-    "id": 561,
+    "pokedexId": 561,
     "name": {
       "english": "Sigilyph",
       "japanese": "シンボラー",
@@ -11481,7 +11481,7 @@
     }
   },
   {
-    "id": 562,
+    "pokedexId": 562,
     "name": {
       "english": "Yamask",
       "japanese": "デスマス",
@@ -11501,7 +11501,7 @@
     }
   },
   {
-    "id": 563,
+    "pokedexId": 563,
     "name": {
       "english": "Cofagrigus",
       "japanese": "デスカーン",
@@ -11521,7 +11521,7 @@
     }
   },
   {
-    "id": 564,
+    "pokedexId": 564,
     "name": {
       "english": "Tirtouga",
       "japanese": "プロトーガ",
@@ -11542,7 +11542,7 @@
     }
   },
   {
-    "id": 565,
+    "pokedexId": 565,
     "name": {
       "english": "Carracosta",
       "japanese": "アバゴーラ",
@@ -11563,7 +11563,7 @@
     }
   },
   {
-    "id": 566,
+    "pokedexId": 566,
     "name": {
       "english": "Archen",
       "japanese": "アーケン",
@@ -11584,7 +11584,7 @@
     }
   },
   {
-    "id": 567,
+    "pokedexId": 567,
     "name": {
       "english": "Archeops",
       "japanese": "アーケオス",
@@ -11605,7 +11605,7 @@
     }
   },
   {
-    "id": 568,
+    "pokedexId": 568,
     "name": {
       "english": "Trubbish",
       "japanese": "ヤブクロン",
@@ -11625,7 +11625,7 @@
     }
   },
   {
-    "id": 569,
+    "pokedexId": 569,
     "name": {
       "english": "Garbodor",
       "japanese": "ダストダス",
@@ -11645,7 +11645,7 @@
     }
   },
   {
-    "id": 570,
+    "pokedexId": 570,
     "name": {
       "english": "Zorua",
       "japanese": "ゾロア",
@@ -11665,7 +11665,7 @@
     }
   },
   {
-    "id": 571,
+    "pokedexId": 571,
     "name": {
       "english": "Zoroark",
       "japanese": "ゾロアーク",
@@ -11685,12 +11685,12 @@
     }
   },
   {
-    "id": 572,
+    "pokedexId": 572,
     "name": {
       "english": "Minccino",
       "japanese": "チラーミィ",
       "chinese": "泡沫栗鼠",
-      "french": "Chinchidou"
+      "french": "ChinchpokedexIdou"
     },
     "type": [
       "Normal"
@@ -11705,7 +11705,7 @@
     }
   },
   {
-    "id": 573,
+    "pokedexId": 573,
     "name": {
       "english": "Cinccino",
       "japanese": "チラチーノ",
@@ -11725,7 +11725,7 @@
     }
   },
   {
-    "id": 574,
+    "pokedexId": 574,
     "name": {
       "english": "Gothita",
       "japanese": "ゴチム",
@@ -11745,7 +11745,7 @@
     }
   },
   {
-    "id": 575,
+    "pokedexId": 575,
     "name": {
       "english": "Gothorita",
       "japanese": "ゴチミル",
@@ -11765,12 +11765,12 @@
     }
   },
   {
-    "id": 576,
+    "pokedexId": 576,
     "name": {
       "english": "Gothitelle",
       "japanese": "ゴチルゼル",
       "chinese": "哥德小姐",
-      "french": "Sidérella"
+      "french": "SpokedexIdérella"
     },
     "type": [
       "Psychic"
@@ -11785,7 +11785,7 @@
     }
   },
   {
-    "id": 577,
+    "pokedexId": 577,
     "name": {
       "english": "Solosis",
       "japanese": "ユニラン",
@@ -11805,7 +11805,7 @@
     }
   },
   {
-    "id": 578,
+    "pokedexId": 578,
     "name": {
       "english": "Duosion",
       "japanese": "ダブラン",
@@ -11825,7 +11825,7 @@
     }
   },
   {
-    "id": 579,
+    "pokedexId": 579,
     "name": {
       "english": "Reuniclus",
       "japanese": "ランクルス",
@@ -11845,7 +11845,7 @@
     }
   },
   {
-    "id": 580,
+    "pokedexId": 580,
     "name": {
       "english": "Ducklett",
       "japanese": "コアルヒー",
@@ -11866,7 +11866,7 @@
     }
   },
   {
-    "id": 581,
+    "pokedexId": 581,
     "name": {
       "english": "Swanna",
       "japanese": "スワンナ",
@@ -11887,7 +11887,7 @@
     }
   },
   {
-    "id": 582,
+    "pokedexId": 582,
     "name": {
       "english": "Vanillite",
       "japanese": "バニプッチ",
@@ -11907,7 +11907,7 @@
     }
   },
   {
-    "id": 583,
+    "pokedexId": 583,
     "name": {
       "english": "Vanillish",
       "japanese": "バニリッチ",
@@ -11927,7 +11927,7 @@
     }
   },
   {
-    "id": 584,
+    "pokedexId": 584,
     "name": {
       "english": "Vanilluxe",
       "japanese": "バイバニラ",
@@ -11947,7 +11947,7 @@
     }
   },
   {
-    "id": 585,
+    "pokedexId": 585,
     "name": {
       "english": "Deerling",
       "japanese": "シキジカ",
@@ -11968,7 +11968,7 @@
     }
   },
   {
-    "id": 586,
+    "pokedexId": 586,
     "name": {
       "english": "Sawsbuck",
       "japanese": "メブキジカ",
@@ -11989,7 +11989,7 @@
     }
   },
   {
-    "id": 587,
+    "pokedexId": 587,
     "name": {
       "english": "Emolga",
       "japanese": "エモンガ",
@@ -12010,7 +12010,7 @@
     }
   },
   {
-    "id": 588,
+    "pokedexId": 588,
     "name": {
       "english": "Karrablast",
       "japanese": "カブルモ",
@@ -12030,7 +12030,7 @@
     }
   },
   {
-    "id": 589,
+    "pokedexId": 589,
     "name": {
       "english": "Escavalier",
       "japanese": "シュバルゴ",
@@ -12051,7 +12051,7 @@
     }
   },
   {
-    "id": 590,
+    "pokedexId": 590,
     "name": {
       "english": "Foongus",
       "japanese": "タマゲタケ",
@@ -12072,7 +12072,7 @@
     }
   },
   {
-    "id": 591,
+    "pokedexId": 591,
     "name": {
       "english": "Amoonguss",
       "japanese": "モロバレル",
@@ -12093,7 +12093,7 @@
     }
   },
   {
-    "id": 592,
+    "pokedexId": 592,
     "name": {
       "english": "Frillish",
       "japanese": "プルリル",
@@ -12114,7 +12114,7 @@
     }
   },
   {
-    "id": 593,
+    "pokedexId": 593,
     "name": {
       "english": "Jellicent",
       "japanese": "ブルンゲル",
@@ -12135,7 +12135,7 @@
     }
   },
   {
-    "id": 594,
+    "pokedexId": 594,
     "name": {
       "english": "Alomomola",
       "japanese": "ママンボウ",
@@ -12155,7 +12155,7 @@
     }
   },
   {
-    "id": 595,
+    "pokedexId": 595,
     "name": {
       "english": "Joltik",
       "japanese": "バチュル",
@@ -12176,7 +12176,7 @@
     }
   },
   {
-    "id": 596,
+    "pokedexId": 596,
     "name": {
       "english": "Galvantula",
       "japanese": "デンチュラ",
@@ -12197,7 +12197,7 @@
     }
   },
   {
-    "id": 597,
+    "pokedexId": 597,
     "name": {
       "english": "Ferroseed",
       "japanese": "テッシード",
@@ -12218,7 +12218,7 @@
     }
   },
   {
-    "id": 598,
+    "pokedexId": 598,
     "name": {
       "english": "Ferrothorn",
       "japanese": "ナットレイ",
@@ -12239,7 +12239,7 @@
     }
   },
   {
-    "id": 599,
+    "pokedexId": 599,
     "name": {
       "english": "Klink",
       "japanese": "ギアル",
@@ -12259,7 +12259,7 @@
     }
   },
   {
-    "id": 600,
+    "pokedexId": 600,
     "name": {
       "english": "Klang",
       "japanese": "ギギアル",
@@ -12279,7 +12279,7 @@
     }
   },
   {
-    "id": 601,
+    "pokedexId": 601,
     "name": {
       "english": "Klinklang",
       "japanese": "ギギギアル",
@@ -12299,7 +12299,7 @@
     }
   },
   {
-    "id": 602,
+    "pokedexId": 602,
     "name": {
       "english": "Tynamo",
       "japanese": "シビシラス",
@@ -12319,7 +12319,7 @@
     }
   },
   {
-    "id": 603,
+    "pokedexId": 603,
     "name": {
       "english": "Eelektrik",
       "japanese": "シビビール",
@@ -12339,7 +12339,7 @@
     }
   },
   {
-    "id": 604,
+    "pokedexId": 604,
     "name": {
       "english": "Eelektross",
       "japanese": "シビルドン",
@@ -12359,7 +12359,7 @@
     }
   },
   {
-    "id": 605,
+    "pokedexId": 605,
     "name": {
       "english": "Elgyem",
       "japanese": "リグレー",
@@ -12379,7 +12379,7 @@
     }
   },
   {
-    "id": 606,
+    "pokedexId": 606,
     "name": {
       "english": "Beheeyem",
       "japanese": "オーベム",
@@ -12399,7 +12399,7 @@
     }
   },
   {
-    "id": 607,
+    "pokedexId": 607,
     "name": {
       "english": "Litwick",
       "japanese": "ヒトモシ",
@@ -12420,7 +12420,7 @@
     }
   },
   {
-    "id": 608,
+    "pokedexId": 608,
     "name": {
       "english": "Lampent",
       "japanese": "ランプラー",
@@ -12441,7 +12441,7 @@
     }
   },
   {
-    "id": 609,
+    "pokedexId": 609,
     "name": {
       "english": "Chandelure",
       "japanese": "シャンデラ",
@@ -12462,7 +12462,7 @@
     }
   },
   {
-    "id": 610,
+    "pokedexId": 610,
     "name": {
       "english": "Axew",
       "japanese": "キバゴ",
@@ -12482,7 +12482,7 @@
     }
   },
   {
-    "id": 611,
+    "pokedexId": 611,
     "name": {
       "english": "Fraxure",
       "japanese": "オノンド",
@@ -12502,7 +12502,7 @@
     }
   },
   {
-    "id": 612,
+    "pokedexId": 612,
     "name": {
       "english": "Haxorus",
       "japanese": "オノノクス",
@@ -12522,7 +12522,7 @@
     }
   },
   {
-    "id": 613,
+    "pokedexId": 613,
     "name": {
       "english": "Cubchoo",
       "japanese": "クマシュン",
@@ -12542,7 +12542,7 @@
     }
   },
   {
-    "id": 614,
+    "pokedexId": 614,
     "name": {
       "english": "Beartic",
       "japanese": "ツンベアー",
@@ -12562,7 +12562,7 @@
     }
   },
   {
-    "id": 615,
+    "pokedexId": 615,
     "name": {
       "english": "Cryogonal",
       "japanese": "フリージオ",
@@ -12582,7 +12582,7 @@
     }
   },
   {
-    "id": 616,
+    "pokedexId": 616,
     "name": {
       "english": "Shelmet",
       "japanese": "チョボマキ",
@@ -12602,7 +12602,7 @@
     }
   },
   {
-    "id": 617,
+    "pokedexId": 617,
     "name": {
       "english": "Accelgor",
       "japanese": "アギルダー",
@@ -12622,7 +12622,7 @@
     }
   },
   {
-    "id": 618,
+    "pokedexId": 618,
     "name": {
       "english": "Stunfisk",
       "japanese": "マッギョ",
@@ -12643,7 +12643,7 @@
     }
   },
   {
-    "id": 619,
+    "pokedexId": 619,
     "name": {
       "english": "Mienfoo",
       "japanese": "コジョフー",
@@ -12663,7 +12663,7 @@
     }
   },
   {
-    "id": 620,
+    "pokedexId": 620,
     "name": {
       "english": "Mienshao",
       "japanese": "コジョンド",
@@ -12683,7 +12683,7 @@
     }
   },
   {
-    "id": 621,
+    "pokedexId": 621,
     "name": {
       "english": "Druddigon",
       "japanese": "クリムガン",
@@ -12703,7 +12703,7 @@
     }
   },
   {
-    "id": 622,
+    "pokedexId": 622,
     "name": {
       "english": "Golett",
       "japanese": "ゴビット",
@@ -12724,7 +12724,7 @@
     }
   },
   {
-    "id": 623,
+    "pokedexId": 623,
     "name": {
       "english": "Golurk",
       "japanese": "ゴルーグ",
@@ -12745,7 +12745,7 @@
     }
   },
   {
-    "id": 624,
+    "pokedexId": 624,
     "name": {
       "english": "Pawniard",
       "japanese": "コマタナ",
@@ -12766,7 +12766,7 @@
     }
   },
   {
-    "id": 625,
+    "pokedexId": 625,
     "name": {
       "english": "Bisharp",
       "japanese": "キリキザン",
@@ -12787,7 +12787,7 @@
     }
   },
   {
-    "id": 626,
+    "pokedexId": 626,
     "name": {
       "english": "Bouffalant",
       "japanese": "バッフロン",
@@ -12807,7 +12807,7 @@
     }
   },
   {
-    "id": 627,
+    "pokedexId": 627,
     "name": {
       "english": "Rufflet",
       "japanese": "ワシボン",
@@ -12828,7 +12828,7 @@
     }
   },
   {
-    "id": 628,
+    "pokedexId": 628,
     "name": {
       "english": "Braviary",
       "japanese": "ウォーグル",
@@ -12849,7 +12849,7 @@
     }
   },
   {
-    "id": 629,
+    "pokedexId": 629,
     "name": {
       "english": "Vullaby",
       "japanese": "バルチャイ",
@@ -12870,7 +12870,7 @@
     }
   },
   {
-    "id": 630,
+    "pokedexId": 630,
     "name": {
       "english": "Mandibuzz",
       "japanese": "バルジーナ",
@@ -12891,7 +12891,7 @@
     }
   },
   {
-    "id": 631,
+    "pokedexId": 631,
     "name": {
       "english": "Heatmor",
       "japanese": "クイタラン",
@@ -12911,7 +12911,7 @@
     }
   },
   {
-    "id": 632,
+    "pokedexId": 632,
     "name": {
       "english": "Durant",
       "japanese": "アイアント",
@@ -12932,7 +12932,7 @@
     }
   },
   {
-    "id": 633,
+    "pokedexId": 633,
     "name": {
       "english": "Deino",
       "japanese": "モノズ",
@@ -12953,7 +12953,7 @@
     }
   },
   {
-    "id": 634,
+    "pokedexId": 634,
     "name": {
       "english": "Zweilous",
       "japanese": "ジヘッド",
@@ -12974,7 +12974,7 @@
     }
   },
   {
-    "id": 635,
+    "pokedexId": 635,
     "name": {
       "english": "Hydreigon",
       "japanese": "サザンドラ",
@@ -12995,7 +12995,7 @@
     }
   },
   {
-    "id": 636,
+    "pokedexId": 636,
     "name": {
       "english": "Larvesta",
       "japanese": "メラルバ",
@@ -13016,7 +13016,7 @@
     }
   },
   {
-    "id": 637,
+    "pokedexId": 637,
     "name": {
       "english": "Volcarona",
       "japanese": "ウルガモス",
@@ -13037,7 +13037,7 @@
     }
   },
   {
-    "id": 638,
+    "pokedexId": 638,
     "name": {
       "english": "Cobalion",
       "japanese": "コバルオン",
@@ -13058,7 +13058,7 @@
     }
   },
   {
-    "id": 639,
+    "pokedexId": 639,
     "name": {
       "english": "Terrakion",
       "japanese": "テラキオン",
@@ -13079,12 +13079,12 @@
     }
   },
   {
-    "id": 640,
+    "pokedexId": 640,
     "name": {
       "english": "Virizion",
       "japanese": "ビリジオン",
       "chinese": "毕力吉翁",
-      "french": "Viridium"
+      "french": "VirpokedexIdium"
     },
     "type": [
       "Grass",
@@ -13100,7 +13100,7 @@
     }
   },
   {
-    "id": 641,
+    "pokedexId": 641,
     "name": {
       "english": "Tornadus",
       "japanese": "トルネロス",
@@ -13120,7 +13120,7 @@
     }
   },
   {
-    "id": 642,
+    "pokedexId": 642,
     "name": {
       "english": "Thundurus",
       "japanese": "ボルトロス",
@@ -13141,7 +13141,7 @@
     }
   },
   {
-    "id": 643,
+    "pokedexId": 643,
     "name": {
       "english": "Reshiram",
       "japanese": "レシラム",
@@ -13162,7 +13162,7 @@
     }
   },
   {
-    "id": 644,
+    "pokedexId": 644,
     "name": {
       "english": "Zekrom",
       "japanese": "ゼクロム",
@@ -13183,7 +13183,7 @@
     }
   },
   {
-    "id": 645,
+    "pokedexId": 645,
     "name": {
       "english": "Landorus",
       "japanese": "ランドロス",
@@ -13204,7 +13204,7 @@
     }
   },
   {
-    "id": 646,
+    "pokedexId": 646,
     "name": {
       "english": "Kyurem",
       "japanese": "キュレム",
@@ -13225,7 +13225,7 @@
     }
   },
   {
-    "id": 647,
+    "pokedexId": 647,
     "name": {
       "english": "Keldeo",
       "japanese": "ケルディオ",
@@ -13246,7 +13246,7 @@
     }
   },
   {
-    "id": 648,
+    "pokedexId": 648,
     "name": {
       "english": "Meloetta",
       "japanese": "メロエッタ",
@@ -13267,7 +13267,7 @@
     }
   },
   {
-    "id": 649,
+    "pokedexId": 649,
     "name": {
       "english": "Genesect",
       "japanese": "ゲノセクト",
@@ -13288,7 +13288,7 @@
     }
   },
   {
-    "id": 650,
+    "pokedexId": 650,
     "name": {
       "english": "Chespin",
       "japanese": "ハリマロン",
@@ -13308,7 +13308,7 @@
     }
   },
   {
-    "id": 651,
+    "pokedexId": 651,
     "name": {
       "english": "Quilladin",
       "japanese": "ハリボーグ",
@@ -13328,7 +13328,7 @@
     }
   },
   {
-    "id": 652,
+    "pokedexId": 652,
     "name": {
       "english": "Chesnaught",
       "japanese": "ブリガロン",
@@ -13349,7 +13349,7 @@
     }
   },
   {
-    "id": 653,
+    "pokedexId": 653,
     "name": {
       "english": "Fennekin",
       "japanese": "フォッコ",
@@ -13369,7 +13369,7 @@
     }
   },
   {
-    "id": 654,
+    "pokedexId": 654,
     "name": {
       "english": "Braixen",
       "japanese": "テールナー",
@@ -13389,7 +13389,7 @@
     }
   },
   {
-    "id": 655,
+    "pokedexId": 655,
     "name": {
       "english": "Delphox",
       "japanese": "マフォクシー",
@@ -13410,7 +13410,7 @@
     }
   },
   {
-    "id": 656,
+    "pokedexId": 656,
     "name": {
       "english": "Froakie",
       "japanese": "ケロマツ",
@@ -13430,7 +13430,7 @@
     }
   },
   {
-    "id": 657,
+    "pokedexId": 657,
     "name": {
       "english": "Frogadier",
       "japanese": "ゲコガシラ",
@@ -13450,7 +13450,7 @@
     }
   },
   {
-    "id": 658,
+    "pokedexId": 658,
     "name": {
       "english": "Greninja",
       "japanese": "ゲッコウガ",
@@ -13471,7 +13471,7 @@
     }
   },
   {
-    "id": 659,
+    "pokedexId": 659,
     "name": {
       "english": "Bunnelby",
       "japanese": "ホルビー",
@@ -13491,7 +13491,7 @@
     }
   },
   {
-    "id": 660,
+    "pokedexId": 660,
     "name": {
       "english": "Diggersby",
       "japanese": "ホルード",
@@ -13512,7 +13512,7 @@
     }
   },
   {
-    "id": 661,
+    "pokedexId": 661,
     "name": {
       "english": "Fletchling",
       "japanese": "ヤヤコマ",
@@ -13533,7 +13533,7 @@
     }
   },
   {
-    "id": 662,
+    "pokedexId": 662,
     "name": {
       "english": "Fletchinder",
       "japanese": "ヒノヤコマ",
@@ -13554,7 +13554,7 @@
     }
   },
   {
-    "id": 663,
+    "pokedexId": 663,
     "name": {
       "english": "Talonflame",
       "japanese": "ファイアロー",
@@ -13575,12 +13575,12 @@
     }
   },
   {
-    "id": 664,
+    "pokedexId": 664,
     "name": {
       "english": "Scatterbug",
       "japanese": "コフキムシ",
       "chinese": "粉蝶虫",
-      "french": "Lépidonille"
+      "french": "LéppokedexIdonille"
     },
     "type": [
       "Bug"
@@ -13595,7 +13595,7 @@
     }
   },
   {
-    "id": 665,
+    "pokedexId": 665,
     "name": {
       "english": "Spewpa",
       "japanese": "コフーライ",
@@ -13615,7 +13615,7 @@
     }
   },
   {
-    "id": 666,
+    "pokedexId": 666,
     "name": {
       "english": "Vivillon",
       "japanese": "ビビヨン",
@@ -13636,7 +13636,7 @@
     }
   },
   {
-    "id": 667,
+    "pokedexId": 667,
     "name": {
       "english": "Litleo",
       "japanese": "シシコ",
@@ -13657,7 +13657,7 @@
     }
   },
   {
-    "id": 668,
+    "pokedexId": 668,
     "name": {
       "english": "Pyroar",
       "japanese": "カエンジシ",
@@ -13678,7 +13678,7 @@
     }
   },
   {
-    "id": 669,
+    "pokedexId": 669,
     "name": {
       "english": "Flabébé",
       "japanese": "フラベベ",
@@ -13698,7 +13698,7 @@
     }
   },
   {
-    "id": 670,
+    "pokedexId": 670,
     "name": {
       "english": "Floette",
       "japanese": "フラエッテ",
@@ -13718,7 +13718,7 @@
     }
   },
   {
-    "id": 671,
+    "pokedexId": 671,
     "name": {
       "english": "Florges",
       "japanese": "フラージェス",
@@ -13738,9 +13738,9 @@
     }
   },
   {
-    "id": 672,
+    "pokedexId": 672,
     "name": {
-      "english": "Skiddo",
+      "english": "SkpokedexIddo",
       "japanese": "メェークル",
       "chinese": "坐骑小羊",
       "french": "Cabriolaine"
@@ -13758,7 +13758,7 @@
     }
   },
   {
-    "id": 673,
+    "pokedexId": 673,
     "name": {
       "english": "Gogoat",
       "japanese": "ゴーゴート",
@@ -13778,7 +13778,7 @@
     }
   },
   {
-    "id": 674,
+    "pokedexId": 674,
     "name": {
       "english": "Pancham",
       "japanese": "ヤンチャム",
@@ -13798,7 +13798,7 @@
     }
   },
   {
-    "id": 675,
+    "pokedexId": 675,
     "name": {
       "english": "Pangoro",
       "japanese": "ゴロンダ",
@@ -13819,7 +13819,7 @@
     }
   },
   {
-    "id": 676,
+    "pokedexId": 676,
     "name": {
       "english": "Furfrou",
       "japanese": "トリミアン",
@@ -13839,7 +13839,7 @@
     }
   },
   {
-    "id": 677,
+    "pokedexId": 677,
     "name": {
       "english": "Espurr",
       "japanese": "ニャスパー",
@@ -13859,7 +13859,7 @@
     }
   },
   {
-    "id": 678,
+    "pokedexId": 678,
     "name": {
       "english": "Meowstic",
       "japanese": "ニャオニクス",
@@ -13879,7 +13879,7 @@
     }
   },
   {
-    "id": 679,
+    "pokedexId": 679,
     "name": {
       "english": "Honedge",
       "japanese": "ヒトツキ",
@@ -13900,7 +13900,7 @@
     }
   },
   {
-    "id": 680,
+    "pokedexId": 680,
     "name": {
       "english": "Doublade",
       "japanese": "ニダンギル",
@@ -13921,12 +13921,12 @@
     }
   },
   {
-    "id": 681,
+    "pokedexId": 681,
     "name": {
       "english": "Aegislash",
       "japanese": "ギルガルド",
       "chinese": "坚盾剑怪",
-      "french": "Exagide"
+      "french": "ExagpokedexIde"
     },
     "type": [
       "Steel",
@@ -13942,7 +13942,7 @@
     }
   },
   {
-    "id": 682,
+    "pokedexId": 682,
     "name": {
       "english": "Spritzee",
       "japanese": "シュシュプ",
@@ -13962,7 +13962,7 @@
     }
   },
   {
-    "id": 683,
+    "pokedexId": 683,
     "name": {
       "english": "Aromatisse",
       "japanese": "フレフワン",
@@ -13982,7 +13982,7 @@
     }
   },
   {
-    "id": 684,
+    "pokedexId": 684,
     "name": {
       "english": "Swirlix",
       "japanese": "ペロッパフ",
@@ -14002,7 +14002,7 @@
     }
   },
   {
-    "id": 685,
+    "pokedexId": 685,
     "name": {
       "english": "Slurpuff",
       "japanese": "ペロリーム",
@@ -14022,7 +14022,7 @@
     }
   },
   {
-    "id": 686,
+    "pokedexId": 686,
     "name": {
       "english": "Inkay",
       "japanese": "マーイーカ",
@@ -14043,7 +14043,7 @@
     }
   },
   {
-    "id": 687,
+    "pokedexId": 687,
     "name": {
       "english": "Malamar",
       "japanese": "カラマネロ",
@@ -14064,7 +14064,7 @@
     }
   },
   {
-    "id": 688,
+    "pokedexId": 688,
     "name": {
       "english": "Binacle",
       "japanese": "カメテテ",
@@ -14085,7 +14085,7 @@
     }
   },
   {
-    "id": 689,
+    "pokedexId": 689,
     "name": {
       "english": "Barbaracle",
       "japanese": "ガメノデス",
@@ -14106,7 +14106,7 @@
     }
   },
   {
-    "id": 690,
+    "pokedexId": 690,
     "name": {
       "english": "Skrelp",
       "japanese": "クズモー",
@@ -14127,7 +14127,7 @@
     }
   },
   {
-    "id": 691,
+    "pokedexId": 691,
     "name": {
       "english": "Dragalge",
       "japanese": "ドラミドロ",
@@ -14148,7 +14148,7 @@
     }
   },
   {
-    "id": 692,
+    "pokedexId": 692,
     "name": {
       "english": "Clauncher",
       "japanese": "ウデッポウ",
@@ -14168,7 +14168,7 @@
     }
   },
   {
-    "id": 693,
+    "pokedexId": 693,
     "name": {
       "english": "Clawitzer",
       "japanese": "ブロスター",
@@ -14188,7 +14188,7 @@
     }
   },
   {
-    "id": 694,
+    "pokedexId": 694,
     "name": {
       "english": "Helioptile",
       "japanese": "エリキテル",
@@ -14209,7 +14209,7 @@
     }
   },
   {
-    "id": 695,
+    "pokedexId": 695,
     "name": {
       "english": "Heliolisk",
       "japanese": "エレザード",
@@ -14230,12 +14230,12 @@
     }
   },
   {
-    "id": 696,
+    "pokedexId": 696,
     "name": {
       "english": "Tyrunt",
       "japanese": "チゴラス",
       "chinese": "宝宝暴龙",
-      "french": "Ptyranidur"
+      "french": "PtyranpokedexIdur"
     },
     "type": [
       "Rock",
@@ -14251,7 +14251,7 @@
     }
   },
   {
-    "id": 697,
+    "pokedexId": 697,
     "name": {
       "english": "Tyrantrum",
       "japanese": "ガチゴラス",
@@ -14272,7 +14272,7 @@
     }
   },
   {
-    "id": 698,
+    "pokedexId": 698,
     "name": {
       "english": "Amaura",
       "japanese": "アマルス",
@@ -14293,7 +14293,7 @@
     }
   },
   {
-    "id": 699,
+    "pokedexId": 699,
     "name": {
       "english": "Aurorus",
       "japanese": "アマルルガ",
@@ -14314,7 +14314,7 @@
     }
   },
   {
-    "id": 700,
+    "pokedexId": 700,
     "name": {
       "english": "Sylveon",
       "japanese": "ニンフィア",
@@ -14334,7 +14334,7 @@
     }
   },
   {
-    "id": 701,
+    "pokedexId": 701,
     "name": {
       "english": "Hawlucha",
       "japanese": "ルチャブル",
@@ -14355,7 +14355,7 @@
     }
   },
   {
-    "id": 702,
+    "pokedexId": 702,
     "name": {
       "english": "Dedenne",
       "japanese": "デデンネ",
@@ -14376,7 +14376,7 @@
     }
   },
   {
-    "id": 703,
+    "pokedexId": 703,
     "name": {
       "english": "Carbink",
       "japanese": "メレシー",
@@ -14397,7 +14397,7 @@
     }
   },
   {
-    "id": 704,
+    "pokedexId": 704,
     "name": {
       "english": "Goomy",
       "japanese": "ヌメラ",
@@ -14417,7 +14417,7 @@
     }
   },
   {
-    "id": 705,
+    "pokedexId": 705,
     "name": {
       "english": "Sliggoo",
       "japanese": "ヌメイル",
@@ -14437,7 +14437,7 @@
     }
   },
   {
-    "id": 706,
+    "pokedexId": 706,
     "name": {
       "english": "Goodra",
       "japanese": "ヌメルゴン",
@@ -14457,7 +14457,7 @@
     }
   },
   {
-    "id": 707,
+    "pokedexId": 707,
     "name": {
       "english": "Klefki",
       "japanese": "クレッフィ",
@@ -14478,7 +14478,7 @@
     }
   },
   {
-    "id": 708,
+    "pokedexId": 708,
     "name": {
       "english": "Phantump",
       "japanese": "ボクレー",
@@ -14499,7 +14499,7 @@
     }
   },
   {
-    "id": 709,
+    "pokedexId": 709,
     "name": {
       "english": "Trevenant",
       "japanese": "オーロット",
@@ -14520,7 +14520,7 @@
     }
   },
   {
-    "id": 710,
+    "pokedexId": 710,
     "name": {
       "english": "Pumpkaboo",
       "japanese": "バケッチャ",
@@ -14541,7 +14541,7 @@
     }
   },
   {
-    "id": 711,
+    "pokedexId": 711,
     "name": {
       "english": "Gourgeist",
       "japanese": "パンプジン",
@@ -14562,7 +14562,7 @@
     }
   },
   {
-    "id": 712,
+    "pokedexId": 712,
     "name": {
       "english": "Bergmite",
       "japanese": "カチコール",
@@ -14582,7 +14582,7 @@
     }
   },
   {
-    "id": 713,
+    "pokedexId": 713,
     "name": {
       "english": "Avalugg",
       "japanese": "クレベース",
@@ -14602,7 +14602,7 @@
     }
   },
   {
-    "id": 714,
+    "pokedexId": 714,
     "name": {
       "english": "Noibat",
       "japanese": "オンバット",
@@ -14623,7 +14623,7 @@
     }
   },
   {
-    "id": 715,
+    "pokedexId": 715,
     "name": {
       "english": "Noivern",
       "japanese": "オンバーン",
@@ -14644,7 +14644,7 @@
     }
   },
   {
-    "id": 716,
+    "pokedexId": 716,
     "name": {
       "english": "Xerneas",
       "japanese": "ゼルネアス",
@@ -14664,7 +14664,7 @@
     }
   },
   {
-    "id": 717,
+    "pokedexId": 717,
     "name": {
       "english": "Yveltal",
       "japanese": "イベルタル",
@@ -14685,7 +14685,7 @@
     }
   },
   {
-    "id": 718,
+    "pokedexId": 718,
     "name": {
       "english": "Zygarde",
       "japanese": "ジガルデ",
@@ -14706,7 +14706,7 @@
     }
   },
   {
-    "id": 719,
+    "pokedexId": 719,
     "name": {
       "english": "Diancie",
       "japanese": "ディアンシー",
@@ -14727,7 +14727,7 @@
     }
   },
   {
-    "id": 720,
+    "pokedexId": 720,
     "name": {
       "english": "Hoopa",
       "japanese": "フーパ",
@@ -14748,7 +14748,7 @@
     }
   },
   {
-    "id": 721,
+    "pokedexId": 721,
     "name": {
       "english": "Volcanion",
       "japanese": "ボルケニオン",
@@ -14769,7 +14769,7 @@
     }
   },
   {
-    "id": 722,
+    "pokedexId": 722,
     "name": {
       "english": "Rowlet",
       "japanese": "モクロー",
@@ -14790,7 +14790,7 @@
     }
   },
   {
-    "id": 723,
+    "pokedexId": 723,
     "name": {
       "english": "Dartrix",
       "japanese": "フクスロー",
@@ -14811,9 +14811,9 @@
     }
   },
   {
-    "id": 724,
+    "pokedexId": 724,
     "name": {
-      "english": "Decidueye",
+      "english": "DecpokedexIdueye",
       "japanese": "ジュナイパー",
       "chinese": "狙射树枭",
       "french": "Archéduc"
@@ -14832,7 +14832,7 @@
     }
   },
   {
-    "id": 725,
+    "pokedexId": 725,
     "name": {
       "english": "Litten",
       "japanese": "ニャビー",
@@ -14852,7 +14852,7 @@
     }
   },
   {
-    "id": 726,
+    "pokedexId": 726,
     "name": {
       "english": "Torracat",
       "japanese": "ニャヒート",
@@ -14872,7 +14872,7 @@
     }
   },
   {
-    "id": 727,
+    "pokedexId": 727,
     "name": {
       "english": "Incineroar",
       "japanese": "ガオガエン",
@@ -14893,7 +14893,7 @@
     }
   },
   {
-    "id": 728,
+    "pokedexId": 728,
     "name": {
       "english": "Popplio",
       "japanese": "アシマリ",
@@ -14913,7 +14913,7 @@
     }
   },
   {
-    "id": 729,
+    "pokedexId": 729,
     "name": {
       "english": "Brionne",
       "japanese": "オシャマリ",
@@ -14933,7 +14933,7 @@
     }
   },
   {
-    "id": 730,
+    "pokedexId": 730,
     "name": {
       "english": "Primarina",
       "japanese": "アシレーヌ",
@@ -14954,7 +14954,7 @@
     }
   },
   {
-    "id": 731,
+    "pokedexId": 731,
     "name": {
       "english": "Pikipek",
       "japanese": "ツツケラ",
@@ -14975,7 +14975,7 @@
     }
   },
   {
-    "id": 732,
+    "pokedexId": 732,
     "name": {
       "english": "Trumbeak",
       "japanese": "ケララッパ",
@@ -14996,7 +14996,7 @@
     }
   },
   {
-    "id": 733,
+    "pokedexId": 733,
     "name": {
       "english": "Toucannon",
       "japanese": "ドデカバシ",
@@ -15017,7 +15017,7 @@
     }
   },
   {
-    "id": 734,
+    "pokedexId": 734,
     "name": {
       "english": "Yungoos",
       "japanese": "ヤングース",
@@ -15037,7 +15037,7 @@
     }
   },
   {
-    "id": 735,
+    "pokedexId": 735,
     "name": {
       "english": "Gumshoos",
       "japanese": "デカグース",
@@ -15057,7 +15057,7 @@
     }
   },
   {
-    "id": 736,
+    "pokedexId": 736,
     "name": {
       "english": "Grubbin",
       "japanese": "アゴジムシ",
@@ -15077,7 +15077,7 @@
     }
   },
   {
-    "id": 737,
+    "pokedexId": 737,
     "name": {
       "english": "Charjabug",
       "japanese": "デンヂムシ",
@@ -15098,7 +15098,7 @@
     }
   },
   {
-    "id": 738,
+    "pokedexId": 738,
     "name": {
       "english": "Vikavolt",
       "japanese": "クワガノン",
@@ -15119,7 +15119,7 @@
     }
   },
   {
-    "id": 739,
+    "pokedexId": 739,
     "name": {
       "english": "Crabrawler",
       "japanese": "マケンカニ",
@@ -15139,7 +15139,7 @@
     }
   },
   {
-    "id": 740,
+    "pokedexId": 740,
     "name": {
       "english": "Crabominable",
       "japanese": "ケケンカニ",
@@ -15160,7 +15160,7 @@
     }
   },
   {
-    "id": 741,
+    "pokedexId": 741,
     "name": {
       "english": "Oricorio",
       "japanese": "オドリドリ",
@@ -15181,7 +15181,7 @@
     }
   },
   {
-    "id": 742,
+    "pokedexId": 742,
     "name": {
       "english": "Cutiefly",
       "japanese": "アブリー",
@@ -15202,7 +15202,7 @@
     }
   },
   {
-    "id": 743,
+    "pokedexId": 743,
     "name": {
       "english": "Ribombee",
       "japanese": "アブリボン",
@@ -15223,7 +15223,7 @@
     }
   },
   {
-    "id": 744,
+    "pokedexId": 744,
     "name": {
       "english": "Rockruff",
       "japanese": "イワンコ",
@@ -15243,7 +15243,7 @@
     }
   },
   {
-    "id": 745,
+    "pokedexId": 745,
     "name": {
       "english": "Lycanroc",
       "japanese": "ルガルガン",
@@ -15263,7 +15263,7 @@
     }
   },
   {
-    "id": 746,
+    "pokedexId": 746,
     "name": {
       "english": "Wishiwashi",
       "japanese": "ヨワシ",
@@ -15283,7 +15283,7 @@
     }
   },
   {
-    "id": 747,
+    "pokedexId": 747,
     "name": {
       "english": "Mareanie",
       "japanese": "ヒドイデ",
@@ -15304,7 +15304,7 @@
     }
   },
   {
-    "id": 748,
+    "pokedexId": 748,
     "name": {
       "english": "Toxapex",
       "japanese": "ドヒドイデ",
@@ -15325,7 +15325,7 @@
     }
   },
   {
-    "id": 749,
+    "pokedexId": 749,
     "name": {
       "english": "Mudbray",
       "japanese": "ドロバンコ",
@@ -15345,7 +15345,7 @@
     }
   },
   {
-    "id": 750,
+    "pokedexId": 750,
     "name": {
       "english": "Mudsdale",
       "japanese": "バンバドロ",
@@ -15365,9 +15365,9 @@
     }
   },
   {
-    "id": 751,
+    "pokedexId": 751,
     "name": {
-      "english": "Dewpider",
+      "english": "DewppokedexIder",
       "japanese": "シズクモ",
       "chinese": "滴蛛",
       "french": "Araqua"
@@ -15386,9 +15386,9 @@
     }
   },
   {
-    "id": 752,
+    "pokedexId": 752,
     "name": {
-      "english": "Araquanid",
+      "english": "AraquanpokedexId",
       "japanese": "オニシズクモ",
       "chinese": "滴蛛霸",
       "french": "Tarenbulle"
@@ -15407,7 +15407,7 @@
     }
   },
   {
-    "id": 753,
+    "pokedexId": 753,
     "name": {
       "english": "Fomantis",
       "japanese": "カリキリ",
@@ -15427,7 +15427,7 @@
     }
   },
   {
-    "id": 754,
+    "pokedexId": 754,
     "name": {
       "english": "Lurantis",
       "japanese": "ラランテス",
@@ -15447,7 +15447,7 @@
     }
   },
   {
-    "id": 755,
+    "pokedexId": 755,
     "name": {
       "english": "Morelull",
       "japanese": "ネマシュ",
@@ -15468,7 +15468,7 @@
     }
   },
   {
-    "id": 756,
+    "pokedexId": 756,
     "name": {
       "english": "Shiinotic",
       "japanese": "マシェード",
@@ -15489,7 +15489,7 @@
     }
   },
   {
-    "id": 757,
+    "pokedexId": 757,
     "name": {
       "english": "Salandit",
       "japanese": "ヤトウモリ",
@@ -15510,7 +15510,7 @@
     }
   },
   {
-    "id": 758,
+    "pokedexId": 758,
     "name": {
       "english": "Salazzle",
       "japanese": "エンニュート",
@@ -15531,7 +15531,7 @@
     }
   },
   {
-    "id": 759,
+    "pokedexId": 759,
     "name": {
       "english": "Stufful",
       "japanese": "ヌイコグマ",
@@ -15552,7 +15552,7 @@
     }
   },
   {
-    "id": 760,
+    "pokedexId": 760,
     "name": {
       "english": "Bewear",
       "japanese": "キテルグマ",
@@ -15573,7 +15573,7 @@
     }
   },
   {
-    "id": 761,
+    "pokedexId": 761,
     "name": {
       "english": "Bounsweet",
       "japanese": "アマカジ",
@@ -15593,7 +15593,7 @@
     }
   },
   {
-    "id": 762,
+    "pokedexId": 762,
     "name": {
       "english": "Steenee",
       "japanese": "アママイコ",
@@ -15613,7 +15613,7 @@
     }
   },
   {
-    "id": 763,
+    "pokedexId": 763,
     "name": {
       "english": "Tsareena",
       "japanese": "アマージョ",
@@ -15633,7 +15633,7 @@
     }
   },
   {
-    "id": 764,
+    "pokedexId": 764,
     "name": {
       "english": "Comfey",
       "japanese": "キュワワー",
@@ -15653,7 +15653,7 @@
     }
   },
   {
-    "id": 765,
+    "pokedexId": 765,
     "name": {
       "english": "Oranguru",
       "japanese": "ヤレユータン",
@@ -15674,7 +15674,7 @@
     }
   },
   {
-    "id": 766,
+    "pokedexId": 766,
     "name": {
       "english": "Passimian",
       "japanese": "ナゲツケサル",
@@ -15694,7 +15694,7 @@
     }
   },
   {
-    "id": 767,
+    "pokedexId": 767,
     "name": {
       "english": "Wimpod",
       "japanese": "コソクムシ",
@@ -15715,7 +15715,7 @@
     }
   },
   {
-    "id": 768,
+    "pokedexId": 768,
     "name": {
       "english": "Golisopod",
       "japanese": "グソクムシャ",
@@ -15736,7 +15736,7 @@
     }
   },
   {
-    "id": 769,
+    "pokedexId": 769,
     "name": {
       "english": "Sandygast",
       "japanese": "スナバァ",
@@ -15757,7 +15757,7 @@
     }
   },
   {
-    "id": 770,
+    "pokedexId": 770,
     "name": {
       "english": "Palossand",
       "japanese": "シロデスナ",
@@ -15778,7 +15778,7 @@
     }
   },
   {
-    "id": 771,
+    "pokedexId": 771,
     "name": {
       "english": "Pyukumuku",
       "japanese": "ナマコブシ",
@@ -15798,7 +15798,7 @@
     }
   },
   {
-    "id": 772,
+    "pokedexId": 772,
     "name": {
       "english": "Type: Null",
       "japanese": "タイプ：ヌル",
@@ -15818,7 +15818,7 @@
     }
   },
   {
-    "id": 773,
+    "pokedexId": 773,
     "name": {
       "english": "Silvally",
       "japanese": "シルヴァディ",
@@ -15838,7 +15838,7 @@
     }
   },
   {
-    "id": 774,
+    "pokedexId": 774,
     "name": {
       "english": "Minior",
       "japanese": "メテノ",
@@ -15859,7 +15859,7 @@
     }
   },
   {
-    "id": 775,
+    "pokedexId": 775,
     "name": {
       "english": "Komala",
       "japanese": "ネッコアラ",
@@ -15879,7 +15879,7 @@
     }
   },
   {
-    "id": 776,
+    "pokedexId": 776,
     "name": {
       "english": "Turtonator",
       "japanese": "バクガメス",
@@ -15900,7 +15900,7 @@
     }
   },
   {
-    "id": 777,
+    "pokedexId": 777,
     "name": {
       "english": "Togedemaru",
       "japanese": "トゲデマル",
@@ -15921,7 +15921,7 @@
     }
   },
   {
-    "id": 778,
+    "pokedexId": 778,
     "name": {
       "english": "Mimikyu",
       "japanese": "ミミッキュ",
@@ -15942,7 +15942,7 @@
     }
   },
   {
-    "id": 779,
+    "pokedexId": 779,
     "name": {
       "english": "Bruxish",
       "japanese": "ハギギシリ",
@@ -15963,7 +15963,7 @@
     }
   },
   {
-    "id": 780,
+    "pokedexId": 780,
     "name": {
       "english": "Drampa",
       "japanese": "ジジーロン",
@@ -15984,7 +15984,7 @@
     }
   },
   {
-    "id": 781,
+    "pokedexId": 781,
     "name": {
       "english": "Dhelmise",
       "japanese": "ダダリン",
@@ -16005,7 +16005,7 @@
     }
   },
   {
-    "id": 782,
+    "pokedexId": 782,
     "name": {
       "english": "Jangmo-o",
       "japanese": "ジャラコ",
@@ -16025,7 +16025,7 @@
     }
   },
   {
-    "id": 783,
+    "pokedexId": 783,
     "name": {
       "english": "Hakamo-o",
       "japanese": "ジャランゴ",
@@ -16046,7 +16046,7 @@
     }
   },
   {
-    "id": 784,
+    "pokedexId": 784,
     "name": {
       "english": "Kommo-o",
       "japanese": "ジャラランガ",
@@ -16067,7 +16067,7 @@
     }
   },
   {
-    "id": 785,
+    "pokedexId": 785,
     "name": {
       "english": "Tapu Koko",
       "japanese": "カプ・コケコ",
@@ -16088,7 +16088,7 @@
     }
   },
   {
-    "id": 786,
+    "pokedexId": 786,
     "name": {
       "english": "Tapu Lele",
       "japanese": "カプ・テテフ",
@@ -16109,7 +16109,7 @@
     }
   },
   {
-    "id": 787,
+    "pokedexId": 787,
     "name": {
       "english": "Tapu Bulu",
       "japanese": "カプ・ブルル",
@@ -16130,7 +16130,7 @@
     }
   },
   {
-    "id": 788,
+    "pokedexId": 788,
     "name": {
       "english": "Tapu Fini",
       "japanese": "カプ・レヒレ",
@@ -16151,7 +16151,7 @@
     }
   },
   {
-    "id": 789,
+    "pokedexId": 789,
     "name": {
       "english": "Cosmog",
       "japanese": "コスモッグ",
@@ -16171,7 +16171,7 @@
     }
   },
   {
-    "id": 790,
+    "pokedexId": 790,
     "name": {
       "english": "Cosmoem",
       "japanese": "コスモウム",
@@ -16191,7 +16191,7 @@
     }
   },
   {
-    "id": 791,
+    "pokedexId": 791,
     "name": {
       "english": "Solgaleo",
       "japanese": "ソルガレオ",
@@ -16212,7 +16212,7 @@
     }
   },
   {
-    "id": 792,
+    "pokedexId": 792,
     "name": {
       "english": "Lunala",
       "japanese": "ルナアーラ",
@@ -16233,7 +16233,7 @@
     }
   },
   {
-    "id": 793,
+    "pokedexId": 793,
     "name": {
       "english": "Nihilego",
       "japanese": "ウツロイド",
@@ -16254,7 +16254,7 @@
     }
   },
   {
-    "id": 794,
+    "pokedexId": 794,
     "name": {
       "english": "Buzzwole",
       "japanese": "マッシブーン",
@@ -16275,7 +16275,7 @@
     }
   },
   {
-    "id": 795,
+    "pokedexId": 795,
     "name": {
       "english": "Pheromosa",
       "japanese": "フェローチェ",
@@ -16296,7 +16296,7 @@
     }
   },
   {
-    "id": 796,
+    "pokedexId": 796,
     "name": {
       "english": "Xurkitree",
       "japanese": "デンジュモク",
@@ -16316,7 +16316,7 @@
     }
   },
   {
-    "id": 797,
+    "pokedexId": 797,
     "name": {
       "english": "Celesteela",
       "japanese": "テッカグヤ",
@@ -16337,7 +16337,7 @@
     }
   },
   {
-    "id": 798,
+    "pokedexId": 798,
     "name": {
       "english": "Kartana",
       "japanese": "カミツルギ",
@@ -16358,7 +16358,7 @@
     }
   },
   {
-    "id": 799,
+    "pokedexId": 799,
     "name": {
       "english": "Guzzlord",
       "japanese": "アクジキング",
@@ -16379,7 +16379,7 @@
     }
   },
   {
-    "id": 800,
+    "pokedexId": 800,
     "name": {
       "english": "Necrozma",
       "japanese": "ネクロズマ",
@@ -16399,7 +16399,7 @@
     }
   },
   {
-    "id": 801,
+    "pokedexId": 801,
     "name": {
       "english": "Magearna",
       "japanese": "マギアナ",
@@ -16420,7 +16420,7 @@
     }
   },
   {
-    "id": 802,
+    "pokedexId": 802,
     "name": {
       "english": "Marshadow",
       "japanese": "マーシャドー",
@@ -16441,7 +16441,7 @@
     }
   },
   {
-    "id": 803,
+    "pokedexId": 803,
     "name": {
       "english": "Poipole",
       "japanese": "ベベノム",
@@ -16461,7 +16461,7 @@
     }
   },
   {
-    "id": 804,
+    "pokedexId": 804,
     "name": {
       "english": "Naganadel",
       "japanese": "アーゴヨン",
@@ -16482,7 +16482,7 @@
     }
   },
   {
-    "id": 805,
+    "pokedexId": 805,
     "name": {
       "english": "Stakataka",
       "japanese": "ツンデツンデ",
@@ -16503,7 +16503,7 @@
     }
   },
   {
-    "id": 806,
+    "pokedexId": 806,
     "name": {
       "english": "Blacephalon",
       "japanese": "ズガドーン",
@@ -16524,7 +16524,7 @@
     }
   },
   {
-    "id": 807,
+    "pokedexId": 807,
     "name": {
       "english": "Zeraora",
       "japanese": "ゼラオラ",
@@ -16544,7 +16544,7 @@
     }
   },
   {
-    "id": 808,
+    "pokedexId": 808,
     "name": {
       "english": "Meltan",
       "japanese": "メルタン",
@@ -16564,7 +16564,7 @@
     }
   },
   {
-    "id": 809,
+    "pokedexId": 809,
     "name": {
       "english": "Melmetal",
       "japanese": "メルメタル",

@@ -15,13 +15,13 @@ router.post('/sync', async (_req, res) => {
     
     stream.on('data', function(_err, _doc) {
       count++;
-      console.log("Elastic Indexing User: ",count)
+      console.log("Elastic Indexing Pokemon: ",count)
 
     }); 
     
     stream.on('close', function() {
-      console.log('Elastic indexed ' + count + ' users!');
-      res.status(200).json(`Elastic indexed ${count} users!`)
+      console.log('Elastic indexed ' + count + ' Pokemon!');
+      res.status(200).json(`Elastic indexed ${count} Pokemon!`)
     });
     
     stream.on('error', function(err) {

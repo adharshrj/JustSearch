@@ -11,8 +11,9 @@ database.once('connected', () => {
     console.log('Database Connected');
 })
 
-const app = express();
-
+const app = express()
+;
+app.use(express.json());
 app.use(express.urlencoded({limit: '500mb', extended: true, parameterLimit: 500000000}));
 
 

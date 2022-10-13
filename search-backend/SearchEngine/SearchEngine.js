@@ -13,9 +13,9 @@ const phraseSearch = async (_index, _type, phrase) => {
         query: {
           multi_match: {
             fields: [
-              'id',
               'name.english',
-              'type'
+              'type',
+              'pokedexId'
             ],
             query: phrase,
             type: 'phrase_prefix',
@@ -24,11 +24,9 @@ const phraseSearch = async (_index, _type, phrase) => {
         },
         highlight: {
           fields: {
-            id: {},
-            name: {
-              english:{}
-            },
+            name:{},
             type:{},
+            pokedexId: {}
           },
         },
       },

@@ -4,9 +4,9 @@ const { Client } = require('@elastic/elasticsearch')
 const esClient = new Client({ node: 'http://localhost:9200' })
 
 const PokemonSchema = new mongoose.Schema({
-    "id": {
+    "pokedexId": {
         required: true,
-        type: Number
+        type: String
     },
     "name": {
         "english": {
@@ -63,9 +63,9 @@ const PokemonSchema = new mongoose.Schema({
 PokemonSchema.set('toJSON', {
     virtuals: true
 });
-// PokemonSchema.plugin(mongoosastic, {
-//     esClient: esClient, 
-// })
+PokemonSchema.plugin(mongoosastic, {
+    esClient: esClient, 
+})
 
 const Pokemon = mongoose.model('Pokemon', PokemonSchema)
 

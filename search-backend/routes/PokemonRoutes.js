@@ -4,8 +4,9 @@ const { Pokemon } = require('../schema/Schema')
 const pokedex = require('../pokedex.json')
 
 router.post('/create', async (req, res) => {
+    console.log(req.body)
     const data = new Pokemon({
-        id: req.body.id,
+        pokedexId: req.body.pokedexId,
         name: req.body.name,
         type: req.body.type,
         base: req.body.base
@@ -24,23 +25,23 @@ router.post('/create', async (req, res) => {
 
 
 router.post('/createMultiple', async (_req, res) => {
-    pokedex.forEach(async pokemon => {
-        const data = new Pokemon({
-            id: pokemon.id,
-            name: pokemon.name,
-            type: pokemon.type,
-            base: pokemon.base
-        })
-        try {
+
+    try {
+        pokedex.forEach(async pokemon => {
+            const data = new Pokemon({
+                pokedexId: pokemon.pokedexId,
+                name: pokemon.name,
+                type: pokemon.type,
+                base: pokemon.base
+            })
             console.log(data)
             await data.save();
-            return res.status(200)
-        }
-        catch (error) {
-            res.status(500).json({ message: error.message })
-        }
-
-})})
+        })
+        res.status(200).json({message: "Completed"})
+    } catch (error) {
+        res.status(500).json({ message: error.message })
+    }
+})
 
 router.get('/getAll', async (_req, res) => {
     try {
@@ -54,7 +55,17 @@ router.get('/getAll', async (_req, res) => {
 
 router.get('/get/:id', async (req, res) => {
     try {
-        const data = await Pokemon.find({id: req.params.id});
+        const data = await Pokemon.find({ pokedexId: req.params.id });
+        res.json(data)
+    }
+    catch (error) {
+        res.status(500).json({ message: error.message })
+    }
+})
+
+router.get('/get', async (req, res) => {
+    try {
+        const data = await Pokemon.find({ "name.english": req.query.name });
         res.json(data)
     }
     catch (error) {
@@ -65,7 +76,7 @@ router.get('/get/:id', async (req, res) => {
 
 router.patch('/update/:id', async (req, res) => {
     try {
-        const id = {id: req.params.id};
+        const id = { id: req.params.id };
         const updatedData = req.body;
         const options = { new: true };
 
@@ -83,7 +94,7 @@ router.patch('/update/:id', async (req, res) => {
 router.delete('/delete/:id', async (req, res) => {
     try {
         const id = req.params.id;
-        const data = await Pokemon.findOneAndDelete({id:id})
+        const data = await Pokemon.findOneAndDelete({ id: id })
         res.send(`Document with ${data.name} has been deleted..`)
     }
     catch (error) {
