@@ -8,6 +8,7 @@ router.post('/create', async (req, res) => {
     const data = new Pokemon({
         pokedexId: req.body.pokedexId,
         name: req.body.name,
+        imageURL: req.body.imageURL,
         type: req.body.type,
         base: req.body.base
     })
@@ -31,6 +32,7 @@ router.post('/create/multiple', async (_req, res) => {
             const data = new Pokemon({
                 pokedexId: pokemon.pokedexId,
                 name: pokemon.name,
+                imageURL: pokemon.imageURL,
                 type: pokemon.type,
                 base: pokemon.base
             })
@@ -76,7 +78,7 @@ router.get('/get', async (req, res) => {
 
 router.patch('/update/:id', async (req, res) => {
     try {
-        const id = { id: req.params.id };
+        const id = { pokedexId: req.params.id};
         const updatedData = req.body;
         const options = { new: true };
 
