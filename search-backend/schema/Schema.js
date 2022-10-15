@@ -68,8 +68,5 @@ PokemonSchema.plugin(mongoosastic, {
 })
 
 const Pokemon = mongoose.model('Pokemon', PokemonSchema)
-
-
-
 module.exports = { Pokemon }
 

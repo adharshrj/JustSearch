@@ -24,7 +24,7 @@ router.post('/create', async (req, res) => {
 
 
 
-router.post('/createMultiple', async (_req, res) => {
+router.post('/create/multiple', async (_req, res) => {
 
     try {
         pokedex.forEach(async pokemon => {
@@ -43,7 +43,7 @@ router.post('/createMultiple', async (_req, res) => {
     }
 })
 
-router.get('/getAll', async (_req, res) => {
+router.get('/get/all', async (_req, res) => {
     try {
         const data = await Pokemon.find();
         res.status(200).json(data)

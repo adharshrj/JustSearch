@@ -1,6 +1,6 @@
 const express = require('express');
 const PokemonRoutes = require('./routes/PokemonRoutes');
-const ElasticSearchRoutes = require('./routes/ElasticSearchRoutes')
+const ElasticRoutes = require('./routes/ElasticRoutes')
 const { database } = require('./dbConnect')
 
 database.on('error', (error) => {
@@ -18,10 +18,10 @@ app.use(express.urlencoded({limit: '500mb', extended: true, parameterLimit: 5000
 
 
 app.listen(3000, () => {
-    console.log(`Server Started at http://localhost:3000`)
+    console.log(`PokeSearch Server Started at http://localhost:3000`)
 })
 
 app.use('/pokemon', PokemonRoutes)
-app.use('/elasticSearch', ElasticSearchRoutes)
+app.use('/elastic', ElasticRoutes)
 
 

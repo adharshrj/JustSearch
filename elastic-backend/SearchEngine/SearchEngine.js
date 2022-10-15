@@ -1,7 +1,7 @@
 const { Client } = require('@elastic/elasticsearch');
 const client = new Client({ node: 'http://localhost:9200' });
 
-const phraseSearch = async (_index, _type, phrase) => {
+const phraseSearch = async (_index, _type, phrase, multi_match_fields, highlight_fields) => {
   const hits = [];
 
   // only string values are searchable
@@ -12,23 +12,13 @@ const phraseSearch = async (_index, _type, phrase) => {
       body: {
         query: {
           multi_match: {
-            fields: [
-              'name.english',
-              'type',
-              'pokedexId'
-            ],
+            fields: multi_match_fields,
             query: phrase,
             type: 'phrase_prefix',
             //lenient: true
           },
         },
-        highlight: {
-          fields: {
-            name:{},
-            type:{},
-            pokedexId: {}
-          },
-        },
+        highlight: highlight_fields,
       },
     })
     .catch((e) => console.log('error', e));

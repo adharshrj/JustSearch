@@ -1,13 +1,7 @@
-const { phraseSearch } = require('../SearchEngine/SearchEngine');
+
 const { Pokemon } = require('../schema/Schema');
 const express = require('express');
 const router = express.Router()
-
-router.get('/:index/:type', async (req, res) => {
-    const data = await phraseSearch(req.params.index, req.params.type, req.query.q);
-    res.json(data);
-});
-
 
 router.post('/sync', async (_req, res) => {
     const stream = await Pokemon.synchronize();
