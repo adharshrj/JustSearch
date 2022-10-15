@@ -1,3 +1,3 @@
 # Pokemon Search
 
-The information and images are owned by Pokémon™, ® Nintendo
+Information and Images are from Bulbapedia.
